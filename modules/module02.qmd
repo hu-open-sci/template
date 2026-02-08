@@ -1,0 +1,122 @@
+---
+title: "Module 2"
+subtitle: "Tools for Reproducible Research"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+## Overview
+
+Module 2 focuses on concrete **tools** and workflows that make research more reproducible, transparent, and collaborative. Over four weeks, you will learn to use Git, GitHub, and Quarto, and to organize data and documentation so others can reliably rerun your work.
+
+- **Weeks:** 5–8  
+- **Guiding questions:**  
+  - How can version control support transparent, collaborative research?  
+  - What does a reproducible computational workflow look like in practice?  
+  - How should we structure and document data, code, and outputs?
+
+---
+
+## Week 5 – Version Control with Git
+
+**Focus:** Local version control for research projects.
+
+- Topics:
+  - Core Git concepts: repositories, commits, history, branches.
+  - Working locally: staging changes, committing, inspecting logs.
+  - Good commit messages and incremental development.
+
+- In-class activities:
+  - Live demo of basic Git commands in a small project.
+  - Hands-on practice: making edits, staging, committing, viewing history.
+
+- Graded deliverable:
+  - **Lab 2 – Git Basics**  
+    Initialize (or continue) a Git repository for your project, demonstrate meaningful commit history, and practice simple branching and merging.
+
+- Suggested preparation:
+  - Install Git and configure your username and email.
+  - Skim a short intro guide to Git concepts and terminology.
+
+---
+
+## Week 6 – GitHub for Collaboration
+
+**Focus:** Moving from local Git to hosted repositories and collaboration.
+
+- Topics:
+  - Remotes, pushing and pulling between local and GitHub.
+  - Forks, pull requests, and basic review workflows.
+  - Using issues and project boards to manage tasks.
+
+- In-class activities:
+  - Pair or small-group exercise using pull requests and code review comments.
+  - Setting up or joining a GitHub organization or team for the course (if applicable).
+
+- Suggested deliverable:
+  - **Reflection 2 – Collaboration and Version Control**  
+    Reflect on how Git/GitHub could change your collaborative practices in research or teaching.
+
+- Suggested preparation:
+  - Create a GitHub account (if you don’t have one).
+  - Connect your local Git configuration to GitHub via HTTPS or SSH.
+
+---
+
+## Week 7 – Literate Programming with Quarto
+
+**Focus:** Combining code, narrative, and outputs in a single, reproducible document.
+
+- Topics:
+  - Structure of a Quarto document: YAML front matter, code chunks, text.
+  - Rendering to multiple formats (HTML, PDF, etc.).
+  - Managing dependencies (packages, data paths) for reproducibility.
+
+- In-class activities:
+  - Build a simple end-to-end report: data import, basic analysis, figure, and interpretation.
+  - Explore examples of well-documented Quarto reports and sites.
+
+- Graded deliverable:
+  - **Lab 3 – Reproducible Report**  
+    Create a Quarto document that reads data, performs a simple analysis, and produces at least one figure or table, with clear narrative explaining methods and results.
+
+- Suggested preparation:
+  - Install Quarto and confirm it works with your preferred environment (e.g., RStudio, VS Code).
+  - Review a short tutorial on Quarto syntax and rendering.
+
+---
+
+## Week 8 – Data Management and Documentation
+
+**Focus:** Organizing data and writing documentation that supports reuse.
+
+- Topics:
+  - Tidy data principles and file naming conventions.
+  - Metadata, data dictionaries, and codebooks.
+  - Project-level documentation: `README` files and contribution notes.
+
+- In-class activities:
+  - Critique and improve the structure and documentation of a sample dataset and repository.
+  - Apply a data documentation checklist to your own project.
+
+- Graded deliverable:
+  - **Data & Code Checklist**  
+    Complete a checklist evaluating the organization and documentation of your project’s data and code, and implement at least one improvement.
+
+- Suggested preparation:
+  - Review example `README` files and data dictionaries from open projects.
+  - Identify the current state of your own project’s data and documentation.
+
+---
+
+## Connecting to the Open Project
+
+Module 2 provides the technical backbone for your **open project**:
+
+- Your Git/GitHub setup will track the evolution of your project and support collaboration.  
+- Your Quarto report or site will serve as the primary, reproducible narrative of your work.  
+- Your data management and documentation choices will determine how easily others can understand and reuse your materials.
+
+The tools and habits you develop here will be revisited and extended in later modules as you share your work more broadly and consider licensing, ethics, and long-term sustainability.

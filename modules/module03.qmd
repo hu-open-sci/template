@@ -1,0 +1,78 @@
+---
+title: "Module 3"
+subtitle: "Sharing, Collaboration, and Openness"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+## Overview
+
+Module 3 centers on **sharing** your research outputs, collaborating in the open, and building practices that enable others to reuse and extend your work. Over three weeks, you will explore platforms, licensing, and peer review models that support open and participatory science.
+
+- **Weeks:** 9–11  
+- **Guiding questions:**  
+  - How can we share data, code, and materials so they are genuinely reusable?  
+  - What roles do licenses and attribution play in open scholarship?  
+  - How can peer review become more transparent, constructive, and collaborative?
+
+---
+
+## Week 9 – Sharing Data and Code
+
+**Focus:** Platforms and practices for making research products accessible and citable.
+
+- Topics:
+  - Types of repositories: GitHub, OSF, Zenodo, institutional repositories.
+  - Releases, DOIs, and versioned snapshots.
+  - Minimum information for reuse (data + code + documentation).
+
+- In-class activities:
+  - Compare repository platforms using a simple rubric (features, cost, longevity, ease of use).
+  - Examine examples of “good” and “less good” shared projects and discuss what makes them reusable.
+
+- Suggested deliverable:
+  - **Reflection 3 – Sharing Data and Code**  
+    Discuss opportunities and constraints for sharing in your field, including sensitive data, proprietary tools, or institutional policies.
+
+- Suggested preparation:
+  - Identify at least one repository that is common in your discipline.
+  - Bring an example of a shared dataset or codebase you admire (or find confusing).
+
+---
+
+## Week 10 – Licensing and Attribution
+
+**Focus:** Legal and ethical frameworks for reuse and credit.
+
+- Topics:
+  - Overview of Creative Commons licenses (e.g., CC BY, CC BY-SA, CC BY-NC) and public‑domain tools.
+  - Software licenses (e.g., MIT, GPL, Apache) and how they differ from CC licenses.
+  - Attribution practices, citation of data and code, and credit beyond authorship.
+
+- In-class activities:
+  - License selection exercise for several hypothetical projects (e.g., teaching materials, software, datasets).
+  - Analyze license choices in real open projects and discuss their implications.
+
+- Graded deliverable:
+  - **Lab 4 – Licensing Plan**  
+    Propose and implement a licensing strategy for your open project, including:
+    - A license for code.  
+    - A license for text and teaching materials.  
+    - A short rationale documented in your repository.
+
+- Suggested preparation:
+  - Review institutional or funder guidance on sharing and licensing, if available.
+  - Note any collaborators or stakeholders who might influence your licensing decisions.
+
+---
+
+## Week 11 – Open Peer Review and Feedback
+
+**Focus:** Making peer review more transparent, constructive, and educational.
+
+- Topics:
+  - Traditional vs. open peer review models (signed, anonymous, published reports).
+  - Principles of constructive feedback and reviewer responsibilities.
+  - Using issues, pull requests, and comments as review mechan

@@ -1,0 +1,100 @@
+---
+title: "Module 4"
+subtitle: "Applications, Ethics, and Project Synthesis"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+## Overview
+
+Module 4 synthesizes the course by applying open science practices across **disciplines**, addressing **ethical considerations**, and completing your open project for public sharing. Over three weeks, you will refine your work, present it to peers, and reflect on how to sustain these practices long-term.
+
+- **Weeks:** 12–14  
+- **Guiding questions:**  
+  - What are the ethical, equity, and inclusion challenges of open science?  
+  - How is open science practiced across different fields and contexts?  
+  - How will you carry open practices forward in your own work?
+
+---
+
+## Week 12 – Ethics, Equity, and Inclusion in Open Science
+
+**Focus:** Responsible and inclusive practices beyond technical implementation.
+
+- Topics:
+  - Data justice, privacy, and harms of over-sharing sensitive information.
+  - Power dynamics, access barriers, and the digital divide in open scholarship.
+  - Community-engaged research, citizen science, and participatory openness.
+
+- In-class activities:
+  - Case study discussions of ethical dilemmas in data/code sharing.
+  - Group brainstorming of inclusive practices for documentation and collaboration.
+
+- Suggested deliverable:
+  - **Reflection 4 – Ethics and Equity**  
+    Consider ethical and equity implications of openness for the communities, data, or contexts in your project.
+
+- Suggested preparation:
+  - Review your project through an ethics lens: what data are you sharing, with whom, and under what terms?
+
+---
+
+## Week 13 – Open Science in Practice
+
+**Focus:** Real-world applications and sustainability.
+
+- Topics:
+  - Disciplinary case studies and open science success stories.
+  - Institutional policies, funder mandates, and career implications.
+  - Long-term sustainability: archiving, maintenance, and community contributions.
+
+- In-class activities:
+  - Guest speaker(s) or panel on open science in practice.
+  - Project troubleshooting clinic and final polish workshop.
+  - Discussion of next steps for students' projects post-course.
+
+- Graded deliverable:
+  - **Lab 5 – Project Refinement**  
+    Complete a self-audit checklist and implement improvements for organization, documentation, reproducibility, and presentation readiness.
+
+- Suggested preparation:
+  - Run a "stranger test": can someone unfamiliar with your project reproduce key results?
+
+---
+
+## Week 14 – Project Presentations and Course Reflection
+
+**Focus:** Sharing your work and synthesizing course learning.
+
+- Topics:
+  - Effective communication of open projects (READMEs, talks, write-ups).
+  - Lessons learned and future directions for open science practice.
+  - Course retrospective and peer feedback on final projects.
+
+- In-class activities:
+  - Student presentations (5–10 minutes each): project overview, workflow, key findings, openness features.
+  - Group discussion: what surprised you, what will you change, what needs more work?
+
+- Graded deliverable:
+  - **Final Open Project** (repository + presentation)  
+    Public GitHub repository with complete documentation, reproducible analysis/report/site, appropriate licensing, and evidence of peer review integration.
+
+---
+
+## Course Synthesis
+
+Module 4 completes the progression from **concepts** → **tools** → **sharing** → **responsible practice**:
+
+By now, you should have:
+- A public, documented, reproducible project that demonstrates open science principles.
+- Experience with the full workflow: planning, coding, collaborating, reviewing, sharing, and reflecting.
+- A personal framework for evaluating and improving openness in future work.
+
+## Next Steps Beyond the Course
+
+- **Maintain your project repository** as a portfolio piece or living analysis.
+- **Apply these practices** to your thesis, publications, or collaborations.
+- **Contribute to open science** communities through code, feedback, or teaching others.
+- **Stay connected** via course GitHub organization or open science networks in your field.

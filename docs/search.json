@@ -151,7 +151,7 @@
     "href": "index.html#learning-objectives",
     "title": "Introduction to Open Science",
     "section": "Learning Objectives",
-    "text": "Learning Objectives\n\nExplain the foundations and rationale of the open science movement.\n\nApply reproducible research practices using open tools (Git, R/RStudio, Quarto, and GitHub).\n\nShare and document research transparently through open repositories and metadata standards.\n\nEvaluate ethical, equitable, and inclusive challenges in open scholarship.\n\nDevelop a reproducible mini-project using open science workflows."
+    "text": "Learning Objectives\n\nExplain the foundations and rationale of the open science movement.\n\nApply reproducible research practices using open tools (Git, R/RStudio, Python, Quarto, and GitHub).\n\nShare and document research transparently through open repositories and metadata standards.\n\nEvaluate ethical, equitable, and inclusive challenges in open scholarship.\n\nDevelop a reproducible mini-project using open science workflows."
   },
   {
     "objectID": "index.html#instructor-information",

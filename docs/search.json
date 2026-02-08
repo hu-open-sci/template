@@ -158,14 +158,14 @@
     "href": "index.html#instructor-information",
     "title": "Introduction to Open Science",
     "section": "Instructor Information",
-    "text": "Instructor Information\nInstructor: Nathan Alexander, PhD\nOffice Hours: TBD (On-site or virtual)\nContact: [nathan.alexander@howard.edu]"
+    "text": "Instructor Information\nInstructor: Nathan Alexander, PhD\nOffice Hours: TBD (On-site or virtual)\nContact: nathan.alexander@howard.edu"
   },
   {
     "objectID": "index.html#course-outline",
     "href": "index.html#course-outline",
     "title": "Introduction to Open Science",
     "section": "Course Outline",
-    "text": "Course Outline\n\n\n\n\n\n\n\n\n\nModule 1: Foundations of Open Science\nModule 2: Tools for Reproducible Research\nModule 3: Sharing, Collaboration, and Openness\nModule 4: Applications and Ethical Dimensions\n\n\n\n\nWeek 1: History and philosophy of open science\nWeek 5: Version control and Git fundamentals\nWeek 9: Data sharing and open data standards\nWeek 12: Ethics, inclusion, and equity in openness\n\n\nWeek 2: Openness vs. transparency — what’s the difference?\nWeek 6: Reproducible workflows in R and Quarto\nWeek 10: Licensing and intellectual property in open contexts\nWeek 13: Responsible use of shared data\n\n\nWeek 3: The reproducibility crisis and reform movements\nWeek 7: Computational notebooks and literate programming\nWeek 11: Collaboration via GitHub and open repositories\nWeek 14: Future directions — citizen science, open education\n\n\nWeek 4: Frameworks for reproducibility (FAIR, TOP, etc.)\nWeek 8: Project organization and documentation best practices\n—\nFinal Week: Mini-project presentations and reflection"
+    "text": "Course Outline\n\n\n\n\n\n\n\n\n\nWeek\nTopic\nIn-Class Focus\nMajor Due Dates\n\n\n\n\n1\nWhat is open science?\nHistory, motivations, and myths\n—\n\n\n2\nReproducibility crisis\nReplication and reform movements\nReflection 1\n\n\n3\nFrameworks for openness\nFAIR, TOP, and related standards\n—\n\n\n4\nResearch workflows\nProject structure and documentation\nLab 1: Project skeleton\n\n\n5\nVersion control with Git\nCommits, branches, remotes\nLab 2: Git basics\n\n\n6\nGitHub for collaboration\nIssues, pull requests, review workflows\nReflection 2\n\n\n7\nLiterate programming\nR Markdown / Quarto basics\nLab 3: Reproducible report\n\n\n8\nData management\nTidy data, metadata, README files\nData & code checklist\n\n\n9\nSharing data and code\nRepositories, DOIs, OSF, licensing\nReflection 3\n\n\n10\nLicensing and attribution\nCreative Commons and software licenses\nLab 4: Licensing plan\n\n\n11\nOpen peer review\nReview models and feedback practices\nPeer review: project draft\n\n\n12\nEthics in open science\nInclusion, power, and access in openness\nReflection 4\n\n\n13\nOpen science in practice\nCase studies and guest speakers\nLab 5: Project refinement\n\n\n14\nProject presentations\nStudent project presentations\nFinal project due"
   },
   {
     "objectID": "index.html#assessment-and-deliverables",
@@ -249,14 +249,14 @@
     "href": "syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "Course title: Introduction to Open Science\n\nInstructor: Your Name\n\nInstitution: Your Institution\n\nTerm: Semester, Year\n\nMeeting times: Day(s), Time, Location\n\nContact: your.email@institution.edu\n\nOffice hours: Day(s), Time, Location/Zoom"
+    "text": "Course title: Introduction to Open Science\n\nInstructor: Nathan Alexander, PhD\nMeeting times: TBD\nContact: nathan.alexander@howard.edu\nOffice hours: TBD"
   },
   {
     "objectID": "syllabus.html#course-information",
     "href": "syllabus.html#course-information",
     "title": "Syllabus",
     "section": "",
-    "text": "Course title: Introduction to Open Science\n\nInstructor: Your Name\n\nInstitution: Your Institution\n\nTerm: Semester, Year\n\nMeeting times: Day(s), Time, Location\n\nContact: your.email@institution.edu\n\nOffice hours: Day(s), Time, Location/Zoom"
+    "text": "Course title: Introduction to Open Science\n\nInstructor: Nathan Alexander, PhD\nMeeting times: TBD\nContact: nathan.alexander@howard.edu\nOffice hours: TBD"
   },
   {
     "objectID": "syllabus.html#course-description",

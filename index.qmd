@@ -12,8 +12,6 @@ format:
 
 This course introduces the principles, tools, and practices of open science - a set of principles and practices aimed at making scientific research processes and outputs as accessible, transparent, and reusable as possible for both researchers and the wider public. Students will explore how openness enhances reproducibility, transparency, and collaboration in modern research across disciplines. Emphasis is placed on practical application—learning by doing through open source tools, reproducible workflows, and shared research artifacts.
 
----
-
 ## Learning Objectives
 
 - Explain the foundations and rationale of the open science movement.  
@@ -22,8 +20,6 @@ This course introduces the principles, tools, and practices of open science - a 
 - Evaluate ethical, equitable, and inclusive challenges in open scholarship.  
 - Develop a reproducible mini-project using open science workflows.
 
----
-
 ## Instructor Information
 
 **Instructor:** Nathan Alexander, PhD
@@ -31,8 +27,6 @@ This course introduces the principles, tools, and practices of open science - a 
 **Office Hours:** TBD (On-site or virtual)
 
 **Contact:** nathan.alexander@howard.edu
-
----
 
 ## Course Outline
 
@@ -49,11 +43,10 @@ This course introduces the principles, tools, and practices of open science - a 
 | 9 | Sharing data and code | Repositories, DOIs, OSF, licensing | Reflection 3 |
 | 10 | Licensing and attribution | Creative Commons and software licenses | Lab 4: Licensing plan |
 | 11 | Open peer review | Review models and feedback practices | Peer review: project draft |
-| 12 | Ethics and equity | Inclusion, power, and access in openness | Reflection 4 |
+| 12 | Ethics in open science | Inclusion, power, and access in openness | Reflection 4 |
 | 13 | Open science in practice | Case studies and guest speakers | Lab 5: Project refinement |
 | 14 | Project presentations | Student project presentations | Final project due |
 
----
 
 ## Assessment and Deliverables
 

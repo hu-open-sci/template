@@ -1,103 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introduction to Open Science",
-    "section": "",
-    "text": "This course introduces the principles, tools, and practices of open science - a set of principles and practices aimed at making scientific research processes and outputs as accessible, transparent, and reusable as possible for both researchers and the wider public. Students will explore how openness enhances reproducibility, transparency, and collaboration in modern research across disciplines. Emphasis is placed on practical application—learning by doing through open source tools, reproducible workflows, and shared research artifacts."
-  },
-  {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "Introduction to Open Science",
-    "section": "",
-    "text": "This course introduces the principles, tools, and practices of open science - a set of principles and practices aimed at making scientific research processes and outputs as accessible, transparent, and reusable as possible for both researchers and the wider public. Students will explore how openness enhances reproducibility, transparency, and collaboration in modern research across disciplines. Emphasis is placed on practical application—learning by doing through open source tools, reproducible workflows, and shared research artifacts."
-  },
-  {
-    "objectID": "index.html#learning-objectives",
-    "href": "index.html#learning-objectives",
-    "title": "Introduction to Open Science",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\n\nExplain the foundations and rationale of the open science movement.\n\nApply reproducible research practices using open tools (Git, R/RStudio, Quarto, and GitHub).\n\nShare and document research transparently through open repositories and metadata standards.\n\nEvaluate ethical, equitable, and inclusive challenges in open scholarship.\n\nDevelop a reproducible mini-project using open science workflows."
-  },
-  {
-    "objectID": "index.html#course-outline",
-    "href": "index.html#course-outline",
-    "title": "Introduction to Open Science",
-    "section": "Course Outline",
-    "text": "Course Outline\n\n\n\n\n\n\n\n\n\nModule 1: Foundations of Open Science\nModule 2: Tools for Reproducible Research\nModule 3: Sharing, Collaboration, and Openness\nModule 4: Applications and Ethical Dimensions\n\n\n\n\nWeek 1: History and philosophy of open science\nWeek 5: Version control and Git fundamentals\nWeek 9: Data sharing and open data standards\nWeek 12: Ethics, inclusion, and equity in openness\n\n\nWeek 2: Openness vs. transparency — what’s the difference?\nWeek 6: Reproducible workflows in R and Quarto\nWeek 10: Licensing and intellectual property in open contexts\nWeek 13: Responsible use of shared data\n\n\nWeek 3: The reproducibility crisis and reform movements\nWeek 7: Computational notebooks and literate programming\nWeek 11: Collaboration via GitHub and open repositories\nWeek 14: Future directions — citizen science, open education\n\n\nWeek 4: Frameworks for reproducibility (FAIR, TOP, etc.)\nWeek 8: Project organization and documentation best practices\n—\nFinal Week: Mini-project presentations and reflection"
-  },
-  {
-    "objectID": "index.html#assessment-and-deliverables",
-    "href": "index.html#assessment-and-deliverables",
-    "title": "Introduction to Open Science",
-    "section": "Assessment and Deliverables",
-    "text": "Assessment and Deliverables\n\nWeekly reflection posts via GitHub Discussions or Quarto Blogs\n\nReproducible research exercises (5 short labs)\n\nOpen Project Portfolio (GitHub repository with README, data, code, and reproducible report)\n\nPeer review of one classmate’s open workflow"
-  },
-  {
-    "objectID": "index.html#recommended-tools-and-resources",
-    "href": "index.html#recommended-tools-and-resources",
-    "title": "Introduction to Open Science",
-    "section": "Recommended Tools and Resources",
-    "text": "Recommended Tools and Resources\n\nThe Turing Way\n\nOpen Science Framework (OSF)\n\nGitHub Education\n\nFAIR Principles Overview\n\nQuarto Documentation"
-  },
-  {
-    "objectID": "index.html#instructor-information",
-    "href": "index.html#instructor-information",
-    "title": "Introduction to Open Science",
-    "section": "Instructor Information",
-    "text": "Instructor Information\nInstructor: Nathan Alexander, PhD\nOffice Hours: TBD (On-site or virtual)\nContact: [nathan.alexander@howard.edu]"
-  },
-  {
-    "objectID": "modules/module01.html",
-    "href": "modules/module01.html",
-    "title": "Module 1",
-    "section": "",
-    "text": "Module 1 introduces the foundations of open science and the reproducibility movement. Across four weeks, you will explore key concepts, historical context, and practical frameworks that shape contemporary open and reproducible research.\n\nWeeks: 1–4\n\nGuiding questions:\n\nWhat is open science and why does it matter?\n\nHow did the reproducibility crisis emerge?\n\nWhat frameworks guide more transparent and reliable research?"
-  },
-  {
-    "objectID": "modules/module01.html#overview",
-    "href": "modules/module01.html#overview",
-    "title": "Module 1",
-    "section": "",
-    "text": "Module 1 introduces the foundations of open science and the reproducibility movement. Across four weeks, you will explore key concepts, historical context, and practical frameworks that shape contemporary open and reproducible research.\n\nWeeks: 1–4\n\nGuiding questions:\n\nWhat is open science and why does it matter?\n\nHow did the reproducibility crisis emerge?\n\nWhat frameworks guide more transparent and reliable research?"
-  },
-  {
-    "objectID": "modules/module01.html#week-1-what-is-open-science",
-    "href": "modules/module01.html#week-1-what-is-open-science",
-    "title": "Module 1",
-    "section": "Week 1 – What is Open Science?",
-    "text": "Week 1 – What is Open Science?\nFocus: History, definitions, and motivations.\n\nTopics:\n\nHistorical roots of openness in scholarship.\nDefinitions of open science and related terms (open data, open code, open access).\nCommon myths and misconceptions about openness.\n\nIn-class activities:\n\nDiscussion of exemplar open projects from different disciplines.\nShort diagnostic survey on students’ prior experience with open tools and practices.\n\nSuggested preparation:\n\nRead short overview pieces on open science and reproducibility (posted on the course site).\nReflect on how you currently share or do not share your work.\n\nSuggested deliverable:\n\nBrief reflection (informal) on your current research or study workflow and where it is “closed” or “open.”"
-  },
-  {
-    "objectID": "modules/module01.html#week-2-the-reproducibility-crisis",
-    "href": "modules/module01.html#week-2-the-reproducibility-crisis",
-    "title": "Module 1",
-    "section": "Week 2 – The Reproducibility Crisis",
-    "text": "Week 2 – The Reproducibility Crisis\nFocus: Replication failures and reform movements.\n\nTopics:\n\nHigh-profile replication failures and their consequences.\nDistinguishing reproducibility, replicability, and robustness.\nReform efforts: preregistration, registered reports, open materials.\n\nIn-class activities:\n\nReading discussion on one or more replication case studies.\nSmall-group critique of the methods section of a published paper.\n\nGraded deliverable:\n\nReflection 1 – Reproducibility in your field\nAbout 500 words on how reproducibility issues appear (or might appear) in your discipline and what changes you observe."
-  },
-  {
-    "objectID": "modules/module01.html#week-3-frameworks-and-standards-for-openness",
-    "href": "modules/module01.html#week-3-frameworks-and-standards-for-openness",
-    "title": "Module 1",
-    "section": "Week 3 – Frameworks and Standards for Openness",
-    "text": "Week 3 – Frameworks and Standards for Openness\nFocus: Principles and policies that structure open research.\n\nTopics:\n\nFAIR principles (Findable, Accessible, Interoperable, Reusable).\nTOP guidelines and journal policies on transparency.\nData and code availability statements.\n\nIn-class activities:\n\nGroup mapping of a sample research project to FAIR and TOP.\nReview of journal policies relevant to students’ disciplines.\n\nSuggested deliverable:\n\nShort memo identifying a target journal or venue and summarizing its openness requirements (data, code, preregistration, etc.)."
-  },
-  {
-    "objectID": "modules/module01.html#week-4-research-workflows-and-project-structure",
-    "href": "modules/module01.html#week-4-research-workflows-and-project-structure",
-    "title": "Module 1",
-    "section": "Week 4 – Research Workflows and Project Structure",
-    "text": "Week 4 – Research Workflows and Project Structure\nFocus: Organizing research projects for clarity and reproducibility.\n\nTopics:\n\nFolder organization, naming conventions, and file versioning.\nWriting effective README files and basic documentation.\nThinking ahead to automation and scripted workflows.\n\nIn-class activities:\n\nWalkthrough of a well-organized open project repository.\nHands-on practice sketching a project structure for the course open project.\n\nGraded deliverable:\n\nLab 1 – Project Skeleton\nCreate a Git-tracked project structure with logical directories (e.g., data/, code/, docs/, outputs/) and an initial README that describes the project, data source(s), and basic instructions."
-  },
-  {
-    "objectID": "modules/module01.html#looking-ahead",
-    "href": "modules/module01.html#looking-ahead",
-    "title": "Module 1",
-    "section": "Looking Ahead",
-    "text": "Looking Ahead\nModule 1 lays the conceptual groundwork for the more technical modules that follow. In Module 2, you will begin working directly with version control (Git), GitHub, and Quarto to implement reproducible workflows using the project skeleton you build here."
-  },
-  {
     "objectID": "modules.html",
     "href": "modules.html",
     "title": "Modules",
@@ -145,6 +47,139 @@
     "title": "Modules",
     "section": "How to Use This Page",
     "text": "How to Use This Page\n\nUse the modules as a high-level roadmap; consult the Assignments and Syllabus pages for detailed requirements and grading.\n\nLinks to readings, slides, and datasets will be added to each week’s section as they are finalized.\n\nThis outline is tentative and may be updated during the semester; any changes will be announced in class and on the course home page."
+  },
+  {
+    "objectID": "modules/module03.html",
+    "href": "modules/module03.html",
+    "title": "Module 3",
+    "section": "",
+    "text": "Module 3 centers on sharing your research outputs, collaborating in the open, and building practices that enable others to reuse and extend your work. Over three weeks, you will explore platforms, licensing, and peer review models that support open and participatory science.\n\nWeeks: 9–11\n\nGuiding questions:\n\nHow can we share data, code, and materials so they are genuinely reusable?\n\nWhat roles do licenses and attribution play in open scholarship?\n\nHow can peer review become more transparent, constructive, and collaborative?"
+  },
+  {
+    "objectID": "modules/module03.html#overview",
+    "href": "modules/module03.html#overview",
+    "title": "Module 3",
+    "section": "",
+    "text": "Module 3 centers on sharing your research outputs, collaborating in the open, and building practices that enable others to reuse and extend your work. Over three weeks, you will explore platforms, licensing, and peer review models that support open and participatory science.\n\nWeeks: 9–11\n\nGuiding questions:\n\nHow can we share data, code, and materials so they are genuinely reusable?\n\nWhat roles do licenses and attribution play in open scholarship?\n\nHow can peer review become more transparent, constructive, and collaborative?"
+  },
+  {
+    "objectID": "modules/module03.html#week-9-sharing-data-and-code",
+    "href": "modules/module03.html#week-9-sharing-data-and-code",
+    "title": "Module 3",
+    "section": "Week 9 – Sharing Data and Code",
+    "text": "Week 9 – Sharing Data and Code\nFocus: Platforms and practices for making research products accessible and citable.\n\nTopics:\n\nTypes of repositories: GitHub, OSF, Zenodo, institutional repositories.\nReleases, DOIs, and versioned snapshots.\nMinimum information for reuse (data + code + documentation).\n\nIn-class activities:\n\nCompare repository platforms using a simple rubric (features, cost, longevity, ease of use).\nExamine examples of “good” and “less good” shared projects and discuss what makes them reusable.\n\nSuggested deliverable:\n\nReflection 3 – Sharing Data and Code\nDiscuss opportunities and constraints for sharing in your field, including sensitive data, proprietary tools, or institutional policies.\n\nSuggested preparation:\n\nIdentify at least one repository that is common in your discipline.\nBring an example of a shared dataset or codebase you admire (or find confusing)."
+  },
+  {
+    "objectID": "modules/module03.html#week-10-licensing-and-attribution",
+    "href": "modules/module03.html#week-10-licensing-and-attribution",
+    "title": "Module 3",
+    "section": "Week 10 – Licensing and Attribution",
+    "text": "Week 10 – Licensing and Attribution\nFocus: Legal and ethical frameworks for reuse and credit.\n\nTopics:\n\nOverview of Creative Commons licenses (e.g., CC BY, CC BY-SA, CC BY-NC) and public‑domain tools.\nSoftware licenses (e.g., MIT, GPL, Apache) and how they differ from CC licenses.\nAttribution practices, citation of data and code, and credit beyond authorship.\n\nIn-class activities:\n\nLicense selection exercise for several hypothetical projects (e.g., teaching materials, software, datasets).\nAnalyze license choices in real open projects and discuss their implications.\n\nGraded deliverable:\n\nLab 4 – Licensing Plan\nPropose and implement a licensing strategy for your open project, including:\n\nA license for code.\n\nA license for text and teaching materials.\n\nA short rationale documented in your repository.\n\n\nSuggested preparation:\n\nReview institutional or funder guidance on sharing and licensing, if available.\nNote any collaborators or stakeholders who might influence your licensing decisions."
+  },
+  {
+    "objectID": "modules/module03.html#week-11-open-peer-review-and-feedback",
+    "href": "modules/module03.html#week-11-open-peer-review-and-feedback",
+    "title": "Module 3",
+    "section": "Week 11 – Open Peer Review and Feedback",
+    "text": "Week 11 – Open Peer Review and Feedback\nFocus: Making peer review more transparent, constructive, and educational.\n\nTopics:\n\nTraditional vs. open peer review models (signed, anonymous, published reports).\nPrinciples of constructive feedback and reviewer responsibilities.\nUsing issues, pull requests, and comments as review mechan"
+  },
+  {
+    "objectID": "modules/module04.html",
+    "href": "modules/module04.html",
+    "title": "Module 4",
+    "section": "",
+    "text": "Module 4 synthesizes the course by applying open science practices across disciplines, addressing ethical considerations, and completing your open project for public sharing. Over three weeks, you will refine your work, present it to peers, and reflect on how to sustain these practices long-term.\n\nWeeks: 12–14\n\nGuiding questions:\n\nWhat are the ethical, equity, and inclusion challenges of open science?\n\nHow is open science practiced across different fields and contexts?\n\nHow will you carry open practices forward in your own work?"
+  },
+  {
+    "objectID": "modules/module04.html#overview",
+    "href": "modules/module04.html#overview",
+    "title": "Module 4",
+    "section": "",
+    "text": "Module 4 synthesizes the course by applying open science practices across disciplines, addressing ethical considerations, and completing your open project for public sharing. Over three weeks, you will refine your work, present it to peers, and reflect on how to sustain these practices long-term.\n\nWeeks: 12–14\n\nGuiding questions:\n\nWhat are the ethical, equity, and inclusion challenges of open science?\n\nHow is open science practiced across different fields and contexts?\n\nHow will you carry open practices forward in your own work?"
+  },
+  {
+    "objectID": "modules/module04.html#week-12-ethics-equity-and-inclusion-in-open-science",
+    "href": "modules/module04.html#week-12-ethics-equity-and-inclusion-in-open-science",
+    "title": "Module 4",
+    "section": "Week 12 – Ethics, Equity, and Inclusion in Open Science",
+    "text": "Week 12 – Ethics, Equity, and Inclusion in Open Science\nFocus: Responsible and inclusive practices beyond technical implementation.\n\nTopics:\n\nData justice, privacy, and harms of over-sharing sensitive information.\nPower dynamics, access barriers, and the digital divide in open scholarship.\nCommunity-engaged research, citizen science, and participatory openness.\n\nIn-class activities:\n\nCase study discussions of ethical dilemmas in data/code sharing.\nGroup brainstorming of inclusive practices for documentation and collaboration.\n\nSuggested deliverable:\n\nReflection 4 – Ethics and Equity\nConsider ethical and equity implications of openness for the communities, data, or contexts in your project.\n\nSuggested preparation:\n\nReview your project through an ethics lens: what data are you sharing, with whom, and under what terms?"
+  },
+  {
+    "objectID": "modules/module04.html#week-13-open-science-in-practice",
+    "href": "modules/module04.html#week-13-open-science-in-practice",
+    "title": "Module 4",
+    "section": "Week 13 – Open Science in Practice",
+    "text": "Week 13 – Open Science in Practice\nFocus: Real-world applications and sustainability.\n\nTopics:\n\nDisciplinary case studies and open science success stories.\nInstitutional policies, funder mandates, and career implications.\nLong-term sustainability: archiving, maintenance, and community contributions.\n\nIn-class activities:\n\nGuest speaker(s) or panel on open science in practice.\nProject troubleshooting clinic and final polish workshop.\nDiscussion of next steps for students’ projects post-course.\n\nGraded deliverable:\n\nLab 5 – Project Refinement\nComplete a self-audit checklist and implement improvements for organization, documentation, reproducibility, and presentation readiness.\n\nSuggested preparation:\n\nRun a “stranger test”: can someone unfamiliar with your project reproduce key results?"
+  },
+  {
+    "objectID": "modules/module04.html#week-14-project-presentations-and-course-reflection",
+    "href": "modules/module04.html#week-14-project-presentations-and-course-reflection",
+    "title": "Module 4",
+    "section": "Week 14 – Project Presentations and Course Reflection",
+    "text": "Week 14 – Project Presentations and Course Reflection\nFocus: Sharing your work and synthesizing course learning.\n\nTopics:\n\nEffective communication of open projects (READMEs, talks, write-ups).\nLessons learned and future directions for open science practice.\nCourse retrospective and peer feedback on final projects.\n\nIn-class activities:\n\nStudent presentations (5–10 minutes each): project overview, workflow, key findings, openness features.\nGroup discussion: what surprised you, what will you change, what needs more work?\n\nGraded deliverable:\n\nFinal Open Project (repository + presentation)\nPublic GitHub repository with complete documentation, reproducible analysis/report/site, appropriate licensing, and evidence of peer review integration."
+  },
+  {
+    "objectID": "modules/module04.html#course-synthesis",
+    "href": "modules/module04.html#course-synthesis",
+    "title": "Module 4",
+    "section": "Course Synthesis",
+    "text": "Course Synthesis\nModule 4 completes the progression from concepts → tools → sharing → responsible practice:\nBy now, you should have: - A public, documented, reproducible project that demonstrates open science principles. - Experience with the full workflow: planning, coding, collaborating, reviewing, sharing, and reflecting. - A personal framework for evaluating and improving openness in future work."
+  },
+  {
+    "objectID": "modules/module04.html#next-steps-beyond-the-course",
+    "href": "modules/module04.html#next-steps-beyond-the-course",
+    "title": "Module 4",
+    "section": "Next Steps Beyond the Course",
+    "text": "Next Steps Beyond the Course\n\nMaintain your project repository as a portfolio piece or living analysis.\nApply these practices to your thesis, publications, or collaborations.\nContribute to open science communities through code, feedback, or teaching others.\nStay connected via course GitHub organization or open science networks in your field."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction to Open Science",
+    "section": "",
+    "text": "This course introduces the principles, tools, and practices of open science - a set of principles and practices aimed at making scientific research processes and outputs as accessible, transparent, and reusable as possible for both researchers and the wider public. Students will explore how openness enhances reproducibility, transparency, and collaboration in modern research across disciplines. Emphasis is placed on practical application—learning by doing through open source tools, reproducible workflows, and shared research artifacts."
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Introduction to Open Science",
+    "section": "",
+    "text": "This course introduces the principles, tools, and practices of open science - a set of principles and practices aimed at making scientific research processes and outputs as accessible, transparent, and reusable as possible for both researchers and the wider public. Students will explore how openness enhances reproducibility, transparency, and collaboration in modern research across disciplines. Emphasis is placed on practical application—learning by doing through open source tools, reproducible workflows, and shared research artifacts."
+  },
+  {
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "Introduction to Open Science",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\n\nExplain the foundations and rationale of the open science movement.\n\nApply reproducible research practices using open tools (Git, R/RStudio, Quarto, and GitHub).\n\nShare and document research transparently through open repositories and metadata standards.\n\nEvaluate ethical, equitable, and inclusive challenges in open scholarship.\n\nDevelop a reproducible mini-project using open science workflows."
+  },
+  {
+    "objectID": "index.html#instructor-information",
+    "href": "index.html#instructor-information",
+    "title": "Introduction to Open Science",
+    "section": "Instructor Information",
+    "text": "Instructor Information\nInstructor: Nathan Alexander, PhD\nOffice Hours: TBD (On-site or virtual)\nContact: [nathan.alexander@howard.edu]"
+  },
+  {
+    "objectID": "index.html#course-outline",
+    "href": "index.html#course-outline",
+    "title": "Introduction to Open Science",
+    "section": "Course Outline",
+    "text": "Course Outline\n\n\n\n\n\n\n\n\n\nModule 1: Foundations of Open Science\nModule 2: Tools for Reproducible Research\nModule 3: Sharing, Collaboration, and Openness\nModule 4: Applications and Ethical Dimensions\n\n\n\n\nWeek 1: History and philosophy of open science\nWeek 5: Version control and Git fundamentals\nWeek 9: Data sharing and open data standards\nWeek 12: Ethics, inclusion, and equity in openness\n\n\nWeek 2: Openness vs. transparency — what’s the difference?\nWeek 6: Reproducible workflows in R and Quarto\nWeek 10: Licensing and intellectual property in open contexts\nWeek 13: Responsible use of shared data\n\n\nWeek 3: The reproducibility crisis and reform movements\nWeek 7: Computational notebooks and literate programming\nWeek 11: Collaboration via GitHub and open repositories\nWeek 14: Future directions — citizen science, open education\n\n\nWeek 4: Frameworks for reproducibility (FAIR, TOP, etc.)\nWeek 8: Project organization and documentation best practices\n—\nFinal Week: Mini-project presentations and reflection"
+  },
+  {
+    "objectID": "index.html#assessment-and-deliverables",
+    "href": "index.html#assessment-and-deliverables",
+    "title": "Introduction to Open Science",
+    "section": "Assessment and Deliverables",
+    "text": "Assessment and Deliverables\n\nWeekly reflection posts via GitHub Discussions or Quarto Blogs\n\nReproducible research exercises (5 short labs)\n\nOpen Project Portfolio (GitHub repository with README, data, code, and reproducible report)\n\nPeer review of one classmate’s open workflow"
+  },
+  {
+    "objectID": "index.html#recommended-tools-and-resources",
+    "href": "index.html#recommended-tools-and-resources",
+    "title": "Introduction to Open Science",
+    "section": "Recommended Tools and Resources",
+    "text": "Recommended Tools and Resources\n\nThe Turing Way\n\nOpen Science Framework (OSF)\n\nGitHub Education\n\nFAIR Principles Overview\n\nQuarto Documentation"
   },
   {
     "objectID": "assignments.html",
@@ -278,5 +313,103 @@
     "title": "Syllabus",
     "section": "Tentative Nature of the Syllabus",
     "text": "Tentative Nature of the Syllabus\nThe instructor may adjust topics, readings, or assignments as needed to better meet course goals. Any changes will be communicated in class and on the course site."
+  },
+  {
+    "objectID": "modules/module02.html",
+    "href": "modules/module02.html",
+    "title": "Module 2",
+    "section": "",
+    "text": "Module 2 focuses on concrete tools and workflows that make research more reproducible, transparent, and collaborative. Over four weeks, you will learn to use Git, GitHub, and Quarto, and to organize data and documentation so others can reliably rerun your work.\n\nWeeks: 5–8\n\nGuiding questions:\n\nHow can version control support transparent, collaborative research?\n\nWhat does a reproducible computational workflow look like in practice?\n\nHow should we structure and document data, code, and outputs?"
+  },
+  {
+    "objectID": "modules/module02.html#overview",
+    "href": "modules/module02.html#overview",
+    "title": "Module 2",
+    "section": "",
+    "text": "Module 2 focuses on concrete tools and workflows that make research more reproducible, transparent, and collaborative. Over four weeks, you will learn to use Git, GitHub, and Quarto, and to organize data and documentation so others can reliably rerun your work.\n\nWeeks: 5–8\n\nGuiding questions:\n\nHow can version control support transparent, collaborative research?\n\nWhat does a reproducible computational workflow look like in practice?\n\nHow should we structure and document data, code, and outputs?"
+  },
+  {
+    "objectID": "modules/module02.html#week-5-version-control-with-git",
+    "href": "modules/module02.html#week-5-version-control-with-git",
+    "title": "Module 2",
+    "section": "Week 5 – Version Control with Git",
+    "text": "Week 5 – Version Control with Git\nFocus: Local version control for research projects.\n\nTopics:\n\nCore Git concepts: repositories, commits, history, branches.\nWorking locally: staging changes, committing, inspecting logs.\nGood commit messages and incremental development.\n\nIn-class activities:\n\nLive demo of basic Git commands in a small project.\nHands-on practice: making edits, staging, committing, viewing history.\n\nGraded deliverable:\n\nLab 2 – Git Basics\nInitialize (or continue) a Git repository for your project, demonstrate meaningful commit history, and practice simple branching and merging.\n\nSuggested preparation:\n\nInstall Git and configure your username and email.\nSkim a short intro guide to Git concepts and terminology."
+  },
+  {
+    "objectID": "modules/module02.html#week-6-github-for-collaboration",
+    "href": "modules/module02.html#week-6-github-for-collaboration",
+    "title": "Module 2",
+    "section": "Week 6 – GitHub for Collaboration",
+    "text": "Week 6 – GitHub for Collaboration\nFocus: Moving from local Git to hosted repositories and collaboration.\n\nTopics:\n\nRemotes, pushing and pulling between local and GitHub.\nForks, pull requests, and basic review workflows.\nUsing issues and project boards to manage tasks.\n\nIn-class activities:\n\nPair or small-group exercise using pull requests and code review comments.\nSetting up or joining a GitHub organization or team for the course (if applicable).\n\nSuggested deliverable:\n\nReflection 2 – Collaboration and Version Control\nReflect on how Git/GitHub could change your collaborative practices in research or teaching.\n\nSuggested preparation:\n\nCreate a GitHub account (if you don’t have one).\nConnect your local Git configuration to GitHub via HTTPS or SSH."
+  },
+  {
+    "objectID": "modules/module02.html#week-7-literate-programming-with-quarto",
+    "href": "modules/module02.html#week-7-literate-programming-with-quarto",
+    "title": "Module 2",
+    "section": "Week 7 – Literate Programming with Quarto",
+    "text": "Week 7 – Literate Programming with Quarto\nFocus: Combining code, narrative, and outputs in a single, reproducible document.\n\nTopics:\n\nStructure of a Quarto document: YAML front matter, code chunks, text.\nRendering to multiple formats (HTML, PDF, etc.).\nManaging dependencies (packages, data paths) for reproducibility.\n\nIn-class activities:\n\nBuild a simple end-to-end report: data import, basic analysis, figure, and interpretation.\nExplore examples of well-documented Quarto reports and sites.\n\nGraded deliverable:\n\nLab 3 – Reproducible Report\nCreate a Quarto document that reads data, performs a simple analysis, and produces at least one figure or table, with clear narrative explaining methods and results.\n\nSuggested preparation:\n\nInstall Quarto and confirm it works with your preferred environment (e.g., RStudio, VS Code).\nReview a short tutorial on Quarto syntax and rendering."
+  },
+  {
+    "objectID": "modules/module02.html#week-8-data-management-and-documentation",
+    "href": "modules/module02.html#week-8-data-management-and-documentation",
+    "title": "Module 2",
+    "section": "Week 8 – Data Management and Documentation",
+    "text": "Week 8 – Data Management and Documentation\nFocus: Organizing data and writing documentation that supports reuse.\n\nTopics:\n\nTidy data principles and file naming conventions.\nMetadata, data dictionaries, and codebooks.\nProject-level documentation: README files and contribution notes.\n\nIn-class activities:\n\nCritique and improve the structure and documentation of a sample dataset and repository.\nApply a data documentation checklist to your own project.\n\nGraded deliverable:\n\nData & Code Checklist\nComplete a checklist evaluating the organization and documentation of your project’s data and code, and implement at least one improvement.\n\nSuggested preparation:\n\nReview example README files and data dictionaries from open projects.\nIdentify the current state of your own project’s data and documentation."
+  },
+  {
+    "objectID": "modules/module02.html#connecting-to-the-open-project",
+    "href": "modules/module02.html#connecting-to-the-open-project",
+    "title": "Module 2",
+    "section": "Connecting to the Open Project",
+    "text": "Connecting to the Open Project\nModule 2 provides the technical backbone for your open project:\n\nYour Git/GitHub setup will track the evolution of your project and support collaboration.\n\nYour Quarto report or site will serve as the primary, reproducible narrative of your work.\n\nYour data management and documentation choices will determine how easily others can understand and reuse your materials.\n\nThe tools and habits you develop here will be revisited and extended in later modules as you share your work more broadly and consider licensing, ethics, and long-term sustainability."
+  },
+  {
+    "objectID": "modules/module01.html",
+    "href": "modules/module01.html",
+    "title": "Module 1",
+    "section": "",
+    "text": "Module 1 introduces the foundations of open science and the reproducibility movement. Across four weeks, you will explore key concepts, historical context, and practical frameworks that shape contemporary open and reproducible research.\n\nWeeks: 1–4\n\nGuiding questions:\n\nWhat is open science and why does it matter?\n\nHow did the reproducibility crisis emerge?\n\nWhat frameworks guide more transparent and reliable research?"
+  },
+  {
+    "objectID": "modules/module01.html#overview",
+    "href": "modules/module01.html#overview",
+    "title": "Module 1",
+    "section": "",
+    "text": "Module 1 introduces the foundations of open science and the reproducibility movement. Across four weeks, you will explore key concepts, historical context, and practical frameworks that shape contemporary open and reproducible research.\n\nWeeks: 1–4\n\nGuiding questions:\n\nWhat is open science and why does it matter?\n\nHow did the reproducibility crisis emerge?\n\nWhat frameworks guide more transparent and reliable research?"
+  },
+  {
+    "objectID": "modules/module01.html#week-1-what-is-open-science",
+    "href": "modules/module01.html#week-1-what-is-open-science",
+    "title": "Module 1",
+    "section": "Week 1 – What is Open Science?",
+    "text": "Week 1 – What is Open Science?\nFocus: History, definitions, and motivations.\n\nTopics:\n\nHistorical roots of openness in scholarship.\nDefinitions of open science and related terms (open data, open code, open access).\nCommon myths and misconceptions about openness.\n\nIn-class activities:\n\nDiscussion of exemplar open projects from different disciplines.\nShort diagnostic survey on students’ prior experience with open tools and practices.\n\nSuggested preparation:\n\nRead short overview pieces on open science and reproducibility (posted on the course site).\nReflect on how you currently share or do not share your work.\n\nSuggested deliverable:\n\nBrief reflection (informal) on your current research or study workflow and where it is “closed” or “open.”"
+  },
+  {
+    "objectID": "modules/module01.html#week-2-the-reproducibility-crisis",
+    "href": "modules/module01.html#week-2-the-reproducibility-crisis",
+    "title": "Module 1",
+    "section": "Week 2 – The Reproducibility Crisis",
+    "text": "Week 2 – The Reproducibility Crisis\nFocus: Replication failures and reform movements.\n\nTopics:\n\nHigh-profile replication failures and their consequences.\nDistinguishing reproducibility, replicability, and robustness.\nReform efforts: preregistration, registered reports, open materials.\n\nIn-class activities:\n\nReading discussion on one or more replication case studies.\nSmall-group critique of the methods section of a published paper.\n\nGraded deliverable:\n\nReflection 1 – Reproducibility in your field\nAbout 500 words on how reproducibility issues appear (or might appear) in your discipline and what changes you observe."
+  },
+  {
+    "objectID": "modules/module01.html#week-3-frameworks-and-standards-for-openness",
+    "href": "modules/module01.html#week-3-frameworks-and-standards-for-openness",
+    "title": "Module 1",
+    "section": "Week 3 – Frameworks and Standards for Openness",
+    "text": "Week 3 – Frameworks and Standards for Openness\nFocus: Principles and policies that structure open research.\n\nTopics:\n\nFAIR principles (Findable, Accessible, Interoperable, Reusable).\nTOP guidelines and journal policies on transparency.\nData and code availability statements.\n\nIn-class activities:\n\nGroup mapping of a sample research project to FAIR and TOP.\nReview of journal policies relevant to students’ disciplines.\n\nSuggested deliverable:\n\nShort memo identifying a target journal or venue and summarizing its openness requirements (data, code, preregistration, etc.)."
+  },
+  {
+    "objectID": "modules/module01.html#week-4-research-workflows-and-project-structure",
+    "href": "modules/module01.html#week-4-research-workflows-and-project-structure",
+    "title": "Module 1",
+    "section": "Week 4 – Research Workflows and Project Structure",
+    "text": "Week 4 – Research Workflows and Project Structure\nFocus: Organizing research projects for clarity and reproducibility.\n\nTopics:\n\nFolder organization, naming conventions, and file versioning.\nWriting effective README files and basic documentation.\nThinking ahead to automation and scripted workflows.\n\nIn-class activities:\n\nWalkthrough of a well-organized open project repository.\nHands-on practice sketching a project structure for the course open project.\n\nGraded deliverable:\n\nLab 1 – Project Skeleton\nCreate a Git-tracked project structure with logical directories (e.g., data/, code/, docs/, outputs/) and an initial README that describes the project, data source(s), and basic instructions."
+  },
+  {
+    "objectID": "modules/module01.html#looking-ahead",
+    "href": "modules/module01.html#looking-ahead",
+    "title": "Module 1",
+    "section": "Looking Ahead",
+    "text": "Looking Ahead\nModule 1 lays the conceptual groundwork for the more technical modules that follow. In Module 2, you will begin working directly with version control (Git), GitHub, and Quarto to implement reproducible workflows using the project skeleton you build here."
   }
 ]

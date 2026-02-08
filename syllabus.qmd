@@ -10,12 +10,10 @@ format:
 ## Course Information
 
 - **Course title:** Introduction to Open Science  
-- **Instructor:** Your Name  
-- **Institution:** Your Institution  
-- **Term:** Semester, Year  
-- **Meeting times:** Day(s), Time, Location  
-- **Contact:** your.email@institution.edu  
-- **Office hours:** Day(s), Time, Location/Zoom  
+- **Instructor:** Nathan Alexander, PhD
+- **Meeting times:** TBD
+- **Contact:** nathan.alexander@howard.edu
+- **Office hours:** TBD
 
 ## Course Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Open Science"
-subtitle: "Exploring Reproducibility, Transparency, and Collaboration in Modern Research"
+subtitle: "Exploring Reproducibility, Transparency, and Collaboration in Contemporary Research"
 format:
   html:
     theme: cosmo
@@ -30,18 +30,28 @@ This course introduces the principles, tools, and practices of open science - a 
 
 **Office Hours:** TBD (On-site or virtual)
 
-**Contact:** [nathan.alexander@howard.edu]
+**Contact:** nathan.alexander@howard.edu
 
 ---
 
 ## Course Outline
 
-| **Module 1: Foundations of Open Science** | **Module 2: Tools for Reproducible Research** | **Module 3: Sharing, Collaboration, and Openness** | **Module 4: Applications and Ethical Dimensions** |
-|--------------------------------------------|-----------------------------------------------|----------------------------------------------------|---------------------------------------------------|
-| *Week 1:* History and philosophy of open science | *Week 5:* Version control and Git fundamentals | *Week 9:* Data sharing and open data standards | *Week 12:* Ethics, inclusion, and equity in openness |
-| *Week 2:* Openness vs. transparency — what’s the difference? | *Week 6:* Reproducible workflows in R and Quarto | *Week 10:* Licensing and intellectual property in open contexts | *Week 13:* Responsible use of shared data |
-| *Week 3:* The reproducibility crisis and reform movements | *Week 7:* Computational notebooks and literate programming | *Week 11:* Collaboration via GitHub and open repositories | *Week 14:* Future directions — citizen science, open education |
-| *Week 4:* Frameworks for reproducibility (FAIR, TOP, etc.) | *Week 8:* Project organization and documentation best practices | — | *Final Week:* Mini-project presentations and reflection |
+| Week | Topic | In-Class Focus | Major Due Dates |
+|------|-------|----------------|-----------------|
+| 1 | What is open science? | History, motivations, and myths | — |
+| 2 | Reproducibility crisis | Replication and reform movements | Reflection 1 |
+| 3 | Frameworks for openness | FAIR, TOP, and related standards | — |
+| 4 | Research workflows | Project structure and documentation | Lab 1: Project skeleton |
+| 5 | Version control with Git | Commits, branches, remotes | Lab 2: Git basics |
+| 6 | GitHub for collaboration | Issues, pull requests, review workflows | Reflection 2 |
+| 7 | Literate programming | R Markdown / Quarto basics | Lab 3: Reproducible report |
+| 8 | Data management | Tidy data, metadata, README files | Data & code checklist |
+| 9 | Sharing data and code | Repositories, DOIs, OSF, licensing | Reflection 3 |
+| 10 | Licensing and attribution | Creative Commons and software licenses | Lab 4: Licensing plan |
+| 11 | Open peer review | Review models and feedback practices | Peer review: project draft |
+| 12 | Ethics and equity | Inclusion, power, and access in openness | Reflection 4 |
+| 13 | Open science in practice | Case studies and guest speakers | Lab 5: Project refinement |
+| 14 | Project presentations | Student project presentations | Final project due |
 
 ---
 

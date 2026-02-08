@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Module 1 – Introduction to Open Science</title>
+<title>Module 2 – Introduction to Open Science</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -150,11 +150,11 @@ ul.task-list li input[type="checkbox"] {
    
   <ul class="collapse">
   <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
-  <li><a href="#week-1-what-is-open-science" id="toc-week-1-what-is-open-science" class="nav-link" data-scroll-target="#week-1-what-is-open-science">Week 1 – What is Open Science?</a></li>
-  <li><a href="#week-2-the-reproducibility-crisis" id="toc-week-2-the-reproducibility-crisis" class="nav-link" data-scroll-target="#week-2-the-reproducibility-crisis">Week 2 – The Reproducibility Crisis</a></li>
-  <li><a href="#week-3-frameworks-and-standards-for-openness" id="toc-week-3-frameworks-and-standards-for-openness" class="nav-link" data-scroll-target="#week-3-frameworks-and-standards-for-openness">Week 3 – Frameworks and Standards for Openness</a></li>
-  <li><a href="#week-4-research-workflows-and-project-structure" id="toc-week-4-research-workflows-and-project-structure" class="nav-link" data-scroll-target="#week-4-research-workflows-and-project-structure">Week 4 – Research Workflows and Project Structure</a></li>
-  <li><a href="#looking-ahead" id="toc-looking-ahead" class="nav-link" data-scroll-target="#looking-ahead">Looking Ahead</a></li>
+  <li><a href="#week-5-version-control-with-git" id="toc-week-5-version-control-with-git" class="nav-link" data-scroll-target="#week-5-version-control-with-git">Week 5 – Version Control with Git</a></li>
+  <li><a href="#week-6-github-for-collaboration" id="toc-week-6-github-for-collaboration" class="nav-link" data-scroll-target="#week-6-github-for-collaboration">Week 6 – GitHub for Collaboration</a></li>
+  <li><a href="#week-7-literate-programming-with-quarto" id="toc-week-7-literate-programming-with-quarto" class="nav-link" data-scroll-target="#week-7-literate-programming-with-quarto">Week 7 – Literate Programming with Quarto</a></li>
+  <li><a href="#week-8-data-management-and-documentation" id="toc-week-8-data-management-and-documentation" class="nav-link" data-scroll-target="#week-8-data-management-and-documentation">Week 8 – Data Management and Documentation</a></li>
+  <li><a href="#connecting-to-the-open-project" id="toc-connecting-to-the-open-project" class="nav-link" data-scroll-target="#connecting-to-the-open-project">Connecting to the Open Project</a></li>
   </ul>
 </nav>
     </div>
@@ -163,8 +163,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Module 1</h1>
-<p class="subtitle lead">Foundations of Open Science</p>
+<h1 class="title">Module 2</h1>
+<p class="subtitle lead">Tools for Reproducible Research</p>
 </div>
 
 
@@ -183,119 +183,144 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>Module 1 introduces the <strong>foundations</strong> of open science and the reproducibility movement. Across four weeks, you will explore key concepts, historical context, and practical frameworks that shape contemporary open and reproducible research.</p>
+<p>Module 2 focuses on concrete <strong>tools</strong> and workflows that make research more reproducible, transparent, and collaborative. Over four weeks, you will learn to use Git, GitHub, and Quarto, and to organize data and documentation so others can reliably rerun your work.</p>
 <ul>
-<li><strong>Weeks:</strong> 1–4<br>
+<li><strong>Weeks:</strong> 5–8<br>
 </li>
 <li><strong>Guiding questions:</strong>
 <ul>
-<li>What is open science and why does it matter?<br>
+<li>How can version control support transparent, collaborative research?<br>
 </li>
-<li>How did the reproducibility crisis emerge?<br>
+<li>What does a reproducible computational workflow look like in practice?<br>
 </li>
-<li>What frameworks guide more transparent and reliable research?</li>
+<li>How should we structure and document data, code, and outputs?</li>
 </ul></li>
 </ul>
 <hr>
 </section>
-<section id="week-1-what-is-open-science" class="level2">
-<h2 class="anchored" data-anchor-id="week-1-what-is-open-science">Week 1 – What is Open Science?</h2>
-<p><strong>Focus:</strong> History, definitions, and motivations.</p>
+<section id="week-5-version-control-with-git" class="level2">
+<h2 class="anchored" data-anchor-id="week-5-version-control-with-git">Week 5 – Version Control with Git</h2>
+<p><strong>Focus:</strong> Local version control for research projects.</p>
 <ul>
 <li>Topics:
 <ul>
-<li>Historical roots of openness in scholarship.</li>
-<li>Definitions of open science and related terms (open data, open code, open access).</li>
-<li>Common myths and misconceptions about openness.</li>
+<li>Core Git concepts: repositories, commits, history, branches.</li>
+<li>Working locally: staging changes, committing, inspecting logs.</li>
+<li>Good commit messages and incremental development.</li>
 </ul></li>
 <li>In-class activities:
 <ul>
-<li>Discussion of exemplar open projects from different disciplines.</li>
-<li>Short diagnostic survey on students’ prior experience with open tools and practices.</li>
+<li>Live demo of basic Git commands in a small project.</li>
+<li>Hands-on practice: making edits, staging, committing, viewing history.</li>
+</ul></li>
+<li>Graded deliverable:
+<ul>
+<li><strong>Lab 2 – Git Basics</strong><br>
+Initialize (or continue) a Git repository for your project, demonstrate meaningful commit history, and practice simple branching and merging.</li>
 </ul></li>
 <li>Suggested preparation:
 <ul>
-<li>Read short overview pieces on open science and reproducibility (posted on the course site).</li>
-<li>Reflect on how you currently share or do not share your work.</li>
+<li>Install Git and configure your username and email.</li>
+<li>Skim a short intro guide to Git concepts and terminology.</li>
+</ul></li>
+</ul>
+<hr>
+</section>
+<section id="week-6-github-for-collaboration" class="level2">
+<h2 class="anchored" data-anchor-id="week-6-github-for-collaboration">Week 6 – GitHub for Collaboration</h2>
+<p><strong>Focus:</strong> Moving from local Git to hosted repositories and collaboration.</p>
+<ul>
+<li>Topics:
+<ul>
+<li>Remotes, pushing and pulling between local and GitHub.</li>
+<li>Forks, pull requests, and basic review workflows.</li>
+<li>Using issues and project boards to manage tasks.</li>
+</ul></li>
+<li>In-class activities:
+<ul>
+<li>Pair or small-group exercise using pull requests and code review comments.</li>
+<li>Setting up or joining a GitHub organization or team for the course (if applicable).</li>
 </ul></li>
 <li>Suggested deliverable:
 <ul>
-<li>Brief reflection (informal) on your current research or study workflow and where it is “closed” or “open.”</li>
+<li><strong>Reflection 2 – Collaboration and Version Control</strong><br>
+Reflect on how Git/GitHub could change your collaborative practices in research or teaching.</li>
+</ul></li>
+<li>Suggested preparation:
+<ul>
+<li>Create a GitHub account (if you don’t have one).</li>
+<li>Connect your local Git configuration to GitHub via HTTPS or SSH.</li>
 </ul></li>
 </ul>
 <hr>
 </section>
-<section id="week-2-the-reproducibility-crisis" class="level2">
-<h2 class="anchored" data-anchor-id="week-2-the-reproducibility-crisis">Week 2 – The Reproducibility Crisis</h2>
-<p><strong>Focus:</strong> Replication failures and reform movements.</p>
+<section id="week-7-literate-programming-with-quarto" class="level2">
+<h2 class="anchored" data-anchor-id="week-7-literate-programming-with-quarto">Week 7 – Literate Programming with Quarto</h2>
+<p><strong>Focus:</strong> Combining code, narrative, and outputs in a single, reproducible document.</p>
 <ul>
 <li>Topics:
 <ul>
-<li>High-profile replication failures and their consequences.</li>
-<li>Distinguishing reproducibility, replicability, and robustness.</li>
-<li>Reform efforts: preregistration, registered reports, open materials.</li>
+<li>Structure of a Quarto document: YAML front matter, code chunks, text.</li>
+<li>Rendering to multiple formats (HTML, PDF, etc.).</li>
+<li>Managing dependencies (packages, data paths) for reproducibility.</li>
 </ul></li>
 <li>In-class activities:
 <ul>
-<li>Reading discussion on one or more replication case studies.</li>
-<li>Small-group critique of the methods section of a published paper.</li>
+<li>Build a simple end-to-end report: data import, basic analysis, figure, and interpretation.</li>
+<li>Explore examples of well-documented Quarto reports and sites.</li>
 </ul></li>
 <li>Graded deliverable:
 <ul>
-<li><strong>Reflection 1 – Reproducibility in your field</strong><br>
-About 500 words on how reproducibility issues appear (or might appear) in your discipline and what changes you observe.</li>
+<li><strong>Lab 3 – Reproducible Report</strong><br>
+Create a Quarto document that reads data, performs a simple analysis, and produces at least one figure or table, with clear narrative explaining methods and results.</li>
+</ul></li>
+<li>Suggested preparation:
+<ul>
+<li>Install Quarto and confirm it works with your preferred environment (e.g., RStudio, VS Code).</li>
+<li>Review a short tutorial on Quarto syntax and rendering.</li>
 </ul></li>
 </ul>
 <hr>
 </section>
-<section id="week-3-frameworks-and-standards-for-openness" class="level2">
-<h2 class="anchored" data-anchor-id="week-3-frameworks-and-standards-for-openness">Week 3 – Frameworks and Standards for Openness</h2>
-<p><strong>Focus:</strong> Principles and policies that structure open research.</p>
+<section id="week-8-data-management-and-documentation" class="level2">
+<h2 class="anchored" data-anchor-id="week-8-data-management-and-documentation">Week 8 – Data Management and Documentation</h2>
+<p><strong>Focus:</strong> Organizing data and writing documentation that supports reuse.</p>
 <ul>
 <li>Topics:
 <ul>
-<li>FAIR principles (Findable, Accessible, Interoperable, Reusable).</li>
-<li>TOP guidelines and journal policies on transparency.</li>
-<li>Data and code availability statements.</li>
+<li>Tidy data principles and file naming conventions.</li>
+<li>Metadata, data dictionaries, and codebooks.</li>
+<li>Project-level documentation: <code>README</code> files and contribution notes.</li>
 </ul></li>
 <li>In-class activities:
 <ul>
-<li>Group mapping of a sample research project to FAIR and TOP.</li>
-<li>Review of journal policies relevant to students’ disciplines.</li>
-</ul></li>
-<li>Suggested deliverable:
-<ul>
-<li>Short memo identifying a target journal or venue and summarizing its openness requirements (data, code, preregistration, etc.).</li>
-</ul></li>
-</ul>
-<hr>
-</section>
-<section id="week-4-research-workflows-and-project-structure" class="level2">
-<h2 class="anchored" data-anchor-id="week-4-research-workflows-and-project-structure">Week 4 – Research Workflows and Project Structure</h2>
-<p><strong>Focus:</strong> Organizing research projects for clarity and reproducibility.</p>
-<ul>
-<li>Topics:
-<ul>
-<li>Folder organization, naming conventions, and file versioning.</li>
-<li>Writing effective README files and basic documentation.</li>
-<li>Thinking ahead to automation and scripted workflows.</li>
-</ul></li>
-<li>In-class activities:
-<ul>
-<li>Walkthrough of a well-organized open project repository.</li>
-<li>Hands-on practice sketching a project structure for the course open project.</li>
+<li>Critique and improve the structure and documentation of a sample dataset and repository.</li>
+<li>Apply a data documentation checklist to your own project.</li>
 </ul></li>
 <li>Graded deliverable:
 <ul>
-<li><strong>Lab 1 – Project Skeleton</strong><br>
-Create a Git-tracked project structure with logical directories (e.g., <code>data/</code>, <code>code/</code>, <code>docs/</code>, <code>outputs/</code>) and an initial <code>README</code> that describes the project, data source(s), and basic instructions.</li>
+<li><strong>Data &amp; Code Checklist</strong><br>
+Complete a checklist evaluating the organization and documentation of your project’s data and code, and implement at least one improvement.</li>
+</ul></li>
+<li>Suggested preparation:
+<ul>
+<li>Review example <code>README</code> files and data dictionaries from open projects.</li>
+<li>Identify the current state of your own project’s data and documentation.</li>
 </ul></li>
 </ul>
 <hr>
 </section>
-<section id="looking-ahead" class="level2">
-<h2 class="anchored" data-anchor-id="looking-ahead">Looking Ahead</h2>
-<p>Module 1 lays the conceptual groundwork for the more technical modules that follow. In Module 2, you will begin working directly with version control (Git), GitHub, and Quarto to implement reproducible workflows using the project skeleton you build here.</p>
+<section id="connecting-to-the-open-project" class="level2">
+<h2 class="anchored" data-anchor-id="connecting-to-the-open-project">Connecting to the Open Project</h2>
+<p>Module 2 provides the technical backbone for your <strong>open project</strong>:</p>
+<ul>
+<li>Your Git/GitHub setup will track the evolution of your project and support collaboration.<br>
+</li>
+<li>Your Quarto report or site will serve as the primary, reproducible narrative of your work.<br>
+</li>
+<li>Your data management and documentation choices will determine how easily others can understand and reuse your materials.</li>
+</ul>
+<p>The tools and habits you develop here will be revisited and extended in later modules as you share your work more broadly and consider licensing, ethics, and long-term sustainability.</p>
 
 
 </section>

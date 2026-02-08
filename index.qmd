@@ -10,12 +10,12 @@ format:
 
 ## Course Description
 
-This course introduces the principles, tools, and practices of open science - a set of principles and practices aimed at making scientific research processes and outputs as accessible, transparent, and reusable as possible for both researchers and the wider public. Students will explore how openness enhances reproducibility, transparency, and collaboration in modern research across disciplines. Emphasis is placed on practical application—learning by doing through open source tools, reproducible workflows, and shared research artifacts.
+This course introduces students to open science -- a set of principles and practices aimed at making scientific research processes and outputs as accessible, transparent, and reusable as possible for both researchers and the wider public. Students will explore how openness enhances reproducibility, transparency, and collaboration in modern research across disciplines. Emphasis is placed on practical application—learning by doing through open source tools, reproducible workflows, and shared research artifacts.
 
 ## Learning Objectives
 
 - Explain the foundations and rationale of the open science movement.  
-- Apply reproducible research practices using open tools (Git, R/RStudio, Quarto, and GitHub).  
+- Apply reproducible research practices using open tools (Git, R/RStudio, Python, Quarto, and GitHub).  
 - Share and document research transparently through open repositories and metadata standards.  
 - Evaluate ethical, equitable, and inclusive challenges in open scholarship.  
 - Develop a reproducible mini-project using open science workflows.

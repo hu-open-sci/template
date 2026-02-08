@@ -1,0 +1,114 @@
+---
+title: "Syllabus"
+subtitle: "Introduction to Open Science"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+## Course Information
+
+- **Course title:** Introduction to Open Science  
+- **Instructor:** Your Name  
+- **Institution:** Your Institution  
+- **Term:** Semester, Year  
+- **Meeting times:** Day(s), Time, Location  
+- **Contact:** your.email@institution.edu  
+- **Office hours:** Day(s), Time, Location/Zoom  
+
+## Course Description
+
+This course introduces the principles and practices of open science, with an emphasis on reproducible research workflows, transparent reporting, and collaborative scholarship. Students will critically examine the reproducibility crisis, explore tools that support openness (such as Git, GitHub, and Quarto), and apply these tools in hands-on assignments and a final open project.
+
+## Learning Objectives
+
+By the end of the course, students will be able to:
+
+- Describe key concepts in open science, including transparency, reproducibility, and open scholarship.  
+- Use version control and hosted repositories to manage research projects collaboratively.  
+- Create reproducible analyses and reports using scripted workflows and literate programming tools.  
+- Apply best practices for sharing data, code, and other research outputs with appropriate documentation.  
+- Critically evaluate ethical, legal, and equity considerations in open science.  
+
+## Required Materials
+
+- **Software:**  
+  - R and RStudio (or another suitable IDE)  
+  - Git (with a GitHub account)  
+  - Quarto for document and site authoring  
+
+- **Readings:**  
+  - Selected articles and chapters provided via the course site (all open access or openly licensed).  
+
+## Course Schedule (Overview)
+
+| Week | Topic | In-Class Focus | Major Due Dates |
+|------|-------|----------------|-----------------|
+| 1 | What is open science? | History, motivations, and myths | — |
+| 2 | Reproducibility crisis | Replication and reform movements | Reflection 1 |
+| 3 | Frameworks for openness | FAIR, TOP, and related standards | — |
+| 4 | Research workflows | Project structure and documentation | Lab 1: Project skeleton |
+| 5 | Version control with Git | Commits, branches, remotes | Lab 2: Git basics |
+| 6 | GitHub for collaboration | Issues, pull requests, review workflows | Reflection 2 |
+| 7 | Literate programming | R Markdown / Quarto basics | Lab 3: Reproducible report |
+| 8 | Data management | Tidy data, metadata, README files | Data & code checklist |
+| 9 | Sharing data and code | Repositories, DOIs, OSF, licensing | Reflection 3 |
+| 10 | Licensing and attribution | Creative Commons and software licenses | Lab 4: Licensing plan |
+| 11 | Open peer review | Review models and feedback practices | Peer review: project draft |
+| 12 | Ethics and equity | Inclusion, power, and access in openness | Reflection 4 |
+| 13 | Open science in practice | Case studies and guest speakers | Lab 5: Project refinement |
+| 14 | Project presentations | Student project presentations | Final project due |
+
+## Assignments and Evaluation
+
+- **Participation and engagement (10%)**  
+  Regular attendance, preparation, and constructive contributions to discussions and activities.
+
+- **Reflections (20%)**  
+  Short written reflections (about 500 words) connecting course topics to your disciplinary context and research interests.
+
+- **Labs / Practical exercises (30%)**  
+  Hands-on tasks that build skills in version control, reproducible reporting, data management, and sharing.
+
+- **Open project (40%)**  
+  A small, self-contained research or demonstration project hosted in a public repository, including:
+  - Clearly organized folder structure and documentation  
+  - Reproducible analysis and report (for example, a Quarto document or site)  
+  - Appropriate licensing and citation  
+  - Short in-class presentation in Week 14  
+
+## Open Project Requirements
+
+Your open project should:
+
+- Live in a public GitHub repository under your account (or a course organization).  
+- Include a clear `README` describing the project, requirements, and how to reproduce results.  
+- Provide data (or simulated/open data), code, and a rendered report or site.  
+- Use an appropriate license for code and content, documented in the repository.  
+
+## Course Policies
+
+### Attendance and Participation
+
+Active participation is essential to developing practical open science skills. More than a specified number of unexcused absences (define this in your local context) may affect your participation grade.
+
+### Late Work
+
+Specify your policy here, such as a percentage deduction per day late up to a maximum, or acceptance only by prior arrangement. Clarify how this applies to labs, reflections, and the final project.
+
+### Academic Integrity
+
+All work must comply with institutional policies on academic integrity. When reusing or adapting open materials, you must provide proper attribution and follow the terms of the original licenses.
+
+### Accessibility and Accommodations
+
+Students requiring accommodations are encouraged to contact the instructor and the campus accessibility office as early as possible to ensure appropriate arrangements.
+
+### Technology and Data Ethics
+
+Students are expected to follow ethical and legal guidelines in handling data. When using real-world datasets, ensure that data use complies with privacy and institutional or IRB policies where applicable.
+
+## Tentative Nature of the Syllabus
+
+The instructor may adjust topics, readings, or assignments as needed to better meet course goals. Any changes will be communicated in class and on the course site.

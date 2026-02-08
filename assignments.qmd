@@ -1,0 +1,157 @@
+---
+title: "Assignments"
+subtitle: "Introduction to Open Science"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+## Overview
+
+This course uses short reflections, hands-on labs, and a cumulative open project to help you practice open and reproducible research. This page summarizes each assignment, typical deadlines, and grading weights.
+
+## Grading Breakdown
+
+- Participation and engagement: **10%**
+- Reflections (4 × 5%): **20%**
+- Labs / practical exercises (5 × 6%): **30%**
+- Open project (proposal, draft, final, presentation): **40%**
+
+Total: **100%**
+
+---
+
+## Participation and Engagement (10%)
+
+Participation includes:
+
+- Regular attendance and preparation (completing readings or short pre-class tasks).  
+- Active, respectful engagement in discussions, peer review, and in-class activities.  
+- Contributions to collaborative workspaces (e.g., GitHub Discussions, shared notes).
+
+Participation is assessed holistically across the semester rather than on a point-per-day basis.
+
+---
+
+## Reflections (20%)
+
+You will complete **four short reflections** (about 500 words each). Each reflection asks you to connect course ideas to your own disciplinary context or research interests.
+
+- **Reflection 1 – Reproducibility in your field (Week 2):**  
+  Describe how reproducibility issues show up in your discipline and what reforms you see (or don’t see).
+
+- **Reflection 2 – Collaboration and version control (Week 6):**  
+  Reflect on how Git/GitHub could change the way you collaborate on research or teaching.
+
+- **Reflection 3 – Sharing data and code (Week 9):**  
+  Discuss opportunities and challenges for sharing data/code in your area, including any constraints.
+
+- **Reflection 4 – Ethics, equity, and openness (Week 12):**  
+  Consider ethical and equity implications of open science for the communities and contexts you study.
+
+Each reflection is typically submitted via the course repo (e.g., a Markdown or Quarto file in your student folder) with a short commit message.
+
+---
+
+## Labs / Practical Exercises (30%)
+
+Labs are structured, hands-on activities that build specific skills. Each is designed to be small enough for 1–2 weeks of work.
+
+### Lab 1 – Project Skeleton (Week 4)
+
+- Set up a logically organized project structure (folders for data, code, docs, outputs).  
+- Create a `README` that describes the project purpose, data sources (real or simulated), and basic instructions.  
+- Add minimal documentation (e.g., placeholder data dictionary, notes on required software).
+
+**Deliverable:** A Git-tracked project skeleton in your repository, with initial commit history.
+
+---
+
+### Lab 2 – Git Basics (Week 5)
+
+- Initialize a local Git repository or connect to an existing remote.  
+- Practice staging, committing, viewing history, and creating/merging branches.  
+- Demonstrate at least one example of resolving a simple conflict or reverting changes.
+
+**Deliverable:** Repository with clear commit history that documents your work across multiple commits.
+
+---
+
+### Lab 3 – Reproducible Report with Quarto (Week 7)
+
+- Create a Quarto document that imports data, performs a simple analysis, and produces at least one figure or table.  
+- Include narrative text interpreting results, plus a short “Methods” description.  
+- Ensure the document can be rendered from raw data to final output with a single command.
+
+**Deliverable:** Quarto source file and rendered output (HTML or PDF) in your repository.
+
+---
+
+### Lab 4 – Licensing Plan (Week 10)
+
+- Identify appropriate licenses for your project’s **code** and **content** (e.g., MIT for code, CC BY for materials).  
+- Add license information to your repository (e.g., `LICENSE` and `CONTENT-LICENSE` files, plus notes in the `README`).  
+- Briefly justify your choices in a short Markdown/Quarto note.
+
+**Deliverable:** Updated repository with licenses in place and a one-page licensing rationale.
+
+---
+
+### Lab 5 – Project Refinement (Week 13)
+
+- Conduct a self-audit of your project using a provided checklist (organization, documentation, reproducibility).  
+- Address at least three concrete improvements (e.g., clearer file naming, more detailed README, improved comments).  
+- Prepare your repository for public sharing and final presentation.
+
+**Deliverable:** Updated repository and completed checklist summarizing changes made.
+
+---
+
+## Open Project (40%)
+
+The open project is a small, self-contained research or demonstration project that applies the concepts and tools from the course. You may work individually or in pairs (with instructor approval).
+
+### Components and Timeline
+
+- **Project Idea / Proposal (5%) – around Week 5–6**  
+  - 1–2 pages outlining your research question or demonstration goal, data source(s), planned methods, and openness plan.
+
+- **Project Draft (10%) – around Week 10–11**  
+  - Working repository with initial analysis, draft Quarto report or site, and preliminary documentation.  
+  - Used for in-class peer review.
+
+- **Final Project (20%) – Week 14**  
+  - Public GitHub repository with:
+    - Organized folder structure and clear `README`.  
+    - Data (or clear description and access instructions), code, and fully rendered report/site.  
+    - Licensing and citation information.  
+    - Evidence that the workflow is reproducible on another machine (within reasonable constraints).
+
+- **Presentation (5%) – Week 14**  
+  - 5–10 minute in-class presentation or lightning talk.  
+  - Briefly describe the research question, workflow, key findings, and how you implemented open and reproducible practices.
+
+### Evaluation Criteria
+
+Projects are evaluated on:
+
+- **Reproducibility:** Can others follow your instructions and re-run the analysis?  
+- **Openness:** Are data, code, and materials shared with appropriate licensing and documentation?  
+- **Rigor and clarity:** Are methods and results communicated clearly and accurately?  
+- **Design and organization:** Is the repository easy to navigate and understand?  
+- **Reflection:** Do you thoughtfully discuss limitations, ethical considerations, and next steps?
+
+---
+
+## Submission and Feedback
+
+- All assignments are submitted via your GitHub repository unless otherwise specified.  
+- Feedback is provided through a mix of in-line comments, GitHub issues, and brief summary notes.  
+- Late work, extensions, and revision opportunities follow the policies described in the syllabus.
+
+---
+
+## Notes
+
+This assignments page is a working document. Details (due dates, specific datasets, tools, or rubrics) may be updated during the term; any changes will be announced in class and on the course home page.

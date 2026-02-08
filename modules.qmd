@@ -1,0 +1,124 @@
+---
+title: "Modules"
+subtitle: "Introduction to Open Science"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+## Overview
+
+This page outlines the four main **modules** of the course and their associated weeks, topics, and key activities. Use this as a roadmap for the semester and a guide to the detailed readings and assignments posted on the course site.
+
+## Module 1: Foundations of Open Science
+
+**Weeks:** 1–4  
+**Guiding questions:** What is open science, why has it emerged, and how does it relate to reproducibility?
+
+### Weekly Breakdown
+
+**Week 1 – What is Open Science?**  
+- Topics: History and motivations, open vs. closed research, myths about openness.  
+- Activities: Discussion of exemplar open projects, short diagnostic survey on prior experience.  
+- Suggested Deliverable: Reflection on your current research workflow.
+
+**Week 2 – The Reproducibility Crisis**  
+- Topics: Replication failures, methodological reforms, preregistration and registered reports.  
+- Activities: Reading discussion on replication case studies, in-class critique of a methods section.  
+- Suggested Deliverable: Reflection 1 (reproducibility in your field).
+
+**Week 3 – Frameworks and Standards**  
+- Topics: FAIR principles, TOP guidelines, data and code availability statements.  
+- Activities: Group mapping of a research project to FAIR and TOP, discussion of journal policies.  
+- Suggested Deliverable: Short memo identifying a target journal’s openness policies.
+
+**Week 4 – Research Workflows and Project Structure**  
+- Topics: Folder organization, naming conventions, documentation as part of the workflow.  
+- Activities: Walkthrough of a well-organized open project repository.  
+- Graded Deliverable: Lab 1 – Project skeleton (directories, README, basic documentation).
+
+---
+
+## Module 2: Tools for Reproducible Research
+
+**Weeks:** 5–8  
+**Guiding questions:** How can we use tools to make our work traceable, repeatable, and automatable?
+
+### Weekly Breakdown
+
+**Week 5 – Version Control with Git**  
+- Topics: Commits, branches, merging, working locally with Git.  
+- Activities: Live demo of Git basics, practice committing and reverting changes.  
+- Graded Deliverable: Lab 2 – Git basics (initialize repo, commit history, branching exercise).
+
+**Week 6 – GitHub for Collaboration**  
+- Topics: Remote repositories, pull requests, issues, project boards.  
+- Activities: Pair activity using pull requests and code review; setting up a course organization or team.  
+- Suggested Deliverable: Reflection 2 (collaboration norms and practices).
+
+**Week 7 – Literate Programming with Quarto**  
+- Topics: Quarto documents, parameters, rendering to HTML/PDF, reproducible reports.  
+- Activities: Build a simple analysis report from data import to figure and narrative.  
+- Graded Deliverable: Lab 3 – Reproducible report (Quarto document with code and narrative).
+
+**Week 8 – Data Management and Documentation**  
+- Topics: Tidy data, metadata, README files, data dictionaries.  
+- Activities: Critique and improve an example dataset and its documentation.  
+- Graded Deliverable: Data & code checklist for your project.
+
+---
+
+## Module 3: Sharing, Collaboration, and Openness
+
+**Weeks:** 9–11  
+**Guiding questions:** How do we share our work responsibly and effectively so that others can reuse and build on it?
+
+### Weekly Breakdown
+
+**Week 9 – Sharing Data and Code**  
+- Topics: Repositories (GitHub, OSF, Zenodo), DOIs, versioned releases.  
+- Activities: Evaluate different repository platforms for a sample project.  
+- Suggested Deliverable: Reflection 3 (where and how you will share your work).
+
+**Week 10 – Licensing and Attribution**  
+- Topics: Creative Commons licenses, software licenses (MIT, GPL, etc.), citation and credit.  
+- Activities: License selection exercise for sample projects and materials.  
+- Graded Deliverable: Lab 4 – Licensing plan for your open project.
+
+**Week 11 – Open Peer Review and Feedback**  
+- Topics: Peer review models, open reports, constructive feedback practices.  
+- Activities: In-class peer review workshop using project drafts.  
+- Graded Deliverable: Peer review of a classmate’s repository and report.
+
+---
+
+## Module 4: Applications, Ethics, and Project Synthesis
+
+**Weeks:** 12–14  
+**Guiding questions:** How can open science be practiced ethically and equitably, and how will you apply it in your own work?
+
+### Weekly Breakdown
+
+**Week 12 – Ethics, Equity, and Inclusion in Open Science**  
+- Topics: Power and access, data justice, risks of openness, community-engaged research.  
+- Activities: Case study discussions on ethical dilemmas in sharing data and code.  
+- Suggested Deliverable: Reflection 4 (ethical considerations in your project).
+
+**Week 13 – Open Science in Practice**  
+- Topics: Case studies across disciplines, institutional and funder policies, career implications.  
+- Activities: Guest speaker(s), panel discussion, project troubleshooting clinic.  
+- Graded Deliverable: Lab 5 – Project refinement checklist and action plan.
+
+**Week 14 – Project Presentations and Course Reflection**  
+- Topics: Communicating your open project, lessons learned, next steps.  
+- Activities: Short presentations or lightning talks; group reflection on open science practices.  
+- Graded Deliverable: Final open project due (repository, documentation, and rendered report/site).
+
+---
+
+## How to Use This Page
+
+- Use the modules as a high-level roadmap; consult the **Assignments** and **Syllabus** pages for detailed requirements and grading.  
+- Links to readings, slides, and datasets will be added to each week’s section as they are finalized.  
+- This outline is tentative and may be updated during the semester; any changes will be announced in class and on the course home page.

@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Introduction to Open Science"
+  site-url: "https://YOUR-USERNAME.github.io/YOUR-REPO-NAME"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: syllabus.qmd
+        text: "Syllabus"
+      - href: modules.qmd
+        text: "Modules"
+      - href: assignments.qmd
+        text: "Assignments"
+    right:
+      - href: https://github.com/YOUR-USERNAME/YOUR-REPO-NAME
+        text: "GitHub Repo"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+
+execute:
+  echo: false

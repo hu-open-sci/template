@@ -1,0 +1,67 @@
+---
+title: "Introduction to Open Science"
+subtitle: "Exploring Reproducibility, Transparency, and Collaboration in Modern Research"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-title: "Course Overview"
+---
+
+## Course Description
+
+This course introduces the principles, tools, and practices of open science - a set of principles and practices aimed at making scientific research processes and outputs as accessible, transparent, and reusable as possible for both researchers and the wider public. Students will explore how openness enhances reproducibility, transparency, and collaboration in modern research across disciplines. Emphasis is placed on practical application—learning by doing through open source tools, reproducible workflows, and shared research artifacts.
+
+---
+
+## Learning Objectives
+
+- Explain the foundations and rationale of the open science movement.  
+- Apply reproducible research practices using open tools (Git, R/RStudio, Quarto, and GitHub).  
+- Share and document research transparently through open repositories and metadata standards.  
+- Evaluate ethical, equitable, and inclusive challenges in open scholarship.  
+- Develop a reproducible mini-project using open science workflows.
+
+---
+
+## Instructor Information
+
+**Instructor:** Nathan Alexander, PhD
+
+**Office Hours:** TBD (On-site or virtual)
+
+**Contact:** [nathan.alexander@howard.edu]
+
+---
+
+## Course Outline
+
+| **Module 1: Foundations of Open Science** | **Module 2: Tools for Reproducible Research** | **Module 3: Sharing, Collaboration, and Openness** | **Module 4: Applications and Ethical Dimensions** |
+|--------------------------------------------|-----------------------------------------------|----------------------------------------------------|---------------------------------------------------|
+| *Week 1:* History and philosophy of open science | *Week 5:* Version control and Git fundamentals | *Week 9:* Data sharing and open data standards | *Week 12:* Ethics, inclusion, and equity in openness |
+| *Week 2:* Openness vs. transparency — what’s the difference? | *Week 6:* Reproducible workflows in R and Quarto | *Week 10:* Licensing and intellectual property in open contexts | *Week 13:* Responsible use of shared data |
+| *Week 3:* The reproducibility crisis and reform movements | *Week 7:* Computational notebooks and literate programming | *Week 11:* Collaboration via GitHub and open repositories | *Week 14:* Future directions — citizen science, open education |
+| *Week 4:* Frameworks for reproducibility (FAIR, TOP, etc.) | *Week 8:* Project organization and documentation best practices | — | *Final Week:* Mini-project presentations and reflection |
+
+---
+
+## Assessment and Deliverables
+
+- Weekly reflection posts via GitHub Discussions or Quarto Blogs  
+- Reproducible research exercises (5 short labs)  
+- Open Project Portfolio (GitHub repository with README, data, code, and reproducible report)  
+- Peer review of one classmate’s open workflow  
+
+---
+
+## Recommended Tools and Resources
+
+- [The Turing Way](https://the-turing-way.netlify.app/)  
+- [Open Science Framework (OSF)](https://osf.io/)  
+- [GitHub Education](https://education.github.com/)  
+- [FAIR Principles Overview](https://www.go-fair.org/fair-principles/)  
+- [Quarto Documentation](https://quarto.org)
+
+---
+
+

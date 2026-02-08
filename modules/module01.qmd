@@ -1,0 +1,102 @@
+---
+title: "Module 1"
+subtitle: "Foundations of Open Science"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+## Overview
+
+Module 1 introduces the **foundations** of open science and the reproducibility movement. Across four weeks, you will explore key concepts, historical context, and practical frameworks that shape contemporary open and reproducible research.
+
+- **Weeks:** 1–4  
+- **Guiding questions:**  
+  - What is open science and why does it matter?  
+  - How did the reproducibility crisis emerge?  
+  - What frameworks guide more transparent and reliable research?
+
+---
+
+## Week 1 – What is Open Science?
+
+**Focus:** History, definitions, and motivations.
+
+- Topics:
+  - Historical roots of openness in scholarship.
+  - Definitions of open science and related terms (open data, open code, open access).
+  - Common myths and misconceptions about openness.
+
+- In-class activities:
+  - Discussion of exemplar open projects from different disciplines.
+  - Short diagnostic survey on students’ prior experience with open tools and practices.
+
+- Suggested preparation:
+  - Read short overview pieces on open science and reproducibility (posted on the course site).
+  - Reflect on how you currently share or do not share your work.
+
+- Suggested deliverable:
+  - Brief reflection (informal) on your current research or study workflow and where it is “closed” or “open.”
+
+---
+
+## Week 2 – The Reproducibility Crisis
+
+**Focus:** Replication failures and reform movements.
+
+- Topics:
+  - High-profile replication failures and their consequences.
+  - Distinguishing reproducibility, replicability, and robustness.
+  - Reform efforts: preregistration, registered reports, open materials.
+
+- In-class activities:
+  - Reading discussion on one or more replication case studies.
+  - Small-group critique of the methods section of a published paper.
+
+- Graded deliverable:
+  - **Reflection 1 – Reproducibility in your field**  
+    About 500 words on how reproducibility issues appear (or might appear) in your discipline and what changes you observe.
+
+---
+
+## Week 3 – Frameworks and Standards for Openness
+
+**Focus:** Principles and policies that structure open research.
+
+- Topics:
+  - FAIR principles (Findable, Accessible, Interoperable, Reusable).
+  - TOP guidelines and journal policies on transparency.
+  - Data and code availability statements.
+
+- In-class activities:
+  - Group mapping of a sample research project to FAIR and TOP.
+  - Review of journal policies relevant to students’ disciplines.
+
+- Suggested deliverable:
+  - Short memo identifying a target journal or venue and summarizing its openness requirements (data, code, preregistration, etc.).
+
+---
+
+## Week 4 – Research Workflows and Project Structure
+
+**Focus:** Organizing research projects for clarity and reproducibility.
+
+- Topics:
+  - Folder organization, naming conventions, and file versioning.
+  - Writing effective README files and basic documentation.
+  - Thinking ahead to automation and scripted workflows.
+
+- In-class activities:
+  - Walkthrough of a well-organized open project repository.
+  - Hands-on practice sketching a project structure for the course open project.
+
+- Graded deliverable:
+  - **Lab 1 – Project Skeleton**  
+    Create a Git-tracked project structure with logical directories (e.g., `data/`, `code/`, `docs/`, `outputs/`) and an initial `README` that describes the project, data source(s), and basic instructions.
+
+---
+
+## Looking Ahead
+
+Module 1 lays the conceptual groundwork for the more technical modules that follow. In Module 2, you will begin working directly with version control (Git), GitHub, and Quarto to implement reproducible workflows using the project skeleton you build here.

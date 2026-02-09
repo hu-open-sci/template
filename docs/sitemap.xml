@@ -1,43 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/modules.html</loc>
+    <loc>https://hu-open-sci.github.io/template/modules.html</loc>
     <lastmod>2026-02-08T14:08:57.053Z</lastmod>
   </url>
   <url>
-    <loc>https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/modules/module03.html</loc>
+    <loc>https://hu-open-sci.github.io/template/modules/module03.html</loc>
     <lastmod>2026-02-08T14:17:45.915Z</lastmod>
   </url>
   <url>
-    <loc>https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/modules/module04.html</loc>
+    <loc>https://hu-open-sci.github.io/template/modules/module04.html</loc>
     <lastmod>2026-02-08T14:18:29.059Z</lastmod>
-  </url>
-  <url>
-    <loc>https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/index.html</loc>
-    <lastmod>2026-02-08T14:42:19.163Z</lastmod>
-  </url>
-  <url>
-    <loc>https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/assignments.html</loc>
-    <lastmod>2026-02-08T14:09:49.920Z</lastmod>
-  </url>
-  <url>
-    <loc>https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/syllabus.html</loc>
-    <lastmod>2026-02-08T14:21:24.686Z</lastmod>
-  </url>
-  <url>
-    <loc>https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/modules/module02.html</loc>
-    <lastmod>2026-02-08T14:17:12.673Z</lastmod>
-  </url>
-  <url>
-    <loc>https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/modules/module01.html</loc>
-    <lastmod>2026-02-08T14:11:28.964Z</lastmod>
-  </url>
-  <url>
-    <loc>https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/rubrics/final-project-rubric.html</loc>
-    <lastmod>2026-02-09T15:56:44.937Z</lastmod>
   </url>
   <url>
     <loc>https://hu-open-sci.github.io/template/rubrics/final-project-rubric.html</loc>
     <lastmod>2026-02-09T15:56:44.937Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hu-open-sci.github.io/template/assignments.html</loc>
+    <lastmod>2026-02-08T14:09:49.920Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hu-open-sci.github.io/template/index.html</loc>
+    <lastmod>2026-02-08T14:42:19.163Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hu-open-sci.github.io/template/syllabus.html</loc>
+    <lastmod>2026-02-08T14:21:24.686Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hu-open-sci.github.io/template/modules/module02.html</loc>
+    <lastmod>2026-02-08T14:17:12.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hu-open-sci.github.io/template/modules/module01.html</loc>
+    <lastmod>2026-02-08T14:11:28.964Z</lastmod>
   </url>
 </urlset>

@@ -104,6 +104,17 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Assignments</span></a>
   </li>  
   <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-rubrics" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Rubrics</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-rubrics">    
+        <li>
+    <a class="dropdown-item" href="../rubrics/final-project-rubric.html">
+ <span class="dropdown-text">Final project rubric</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-modules" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Modules</span>
     </a>
@@ -129,7 +140,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="https://github.com/YOUR-USERNAME/YOUR-REPO-NAME"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/hu-open-sci"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text">GitHub</span></a>
   </li>  
@@ -384,7 +395,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/YOUR-USERNAME\.github\.io\/YOUR-REPO-NAME");
+      var filterRegex = new RegExp("https:\/\/hu-open-sci\.github\.io\/template\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

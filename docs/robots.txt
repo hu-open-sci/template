@@ -1,1 +1,1 @@
-Sitemap: https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/sitemap.xml
+Sitemap: https://hu-open-sci.github.io/template/sitemap.xml

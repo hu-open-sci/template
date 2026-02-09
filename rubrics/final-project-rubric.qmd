@@ -1,0 +1,72 @@
+---
+title: "Final Open Project Evaluation"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+## Rubric
+
+The final open project is evaluated using the rubric below. Each criterion is scored on a 4–point scale:
+
+- 4 = Exemplary
+- 3 = Proficient
+- 2 = Developing
+- 1 = Beginning
+
+### Summary Table
+
+| Criterion                       | Weight | 4 – Exemplary                                      | 3 – Proficient                                   | 2 – Developing                                   | 1 – Beginning                                      |
+|---------------------------------|--------|----------------------------------------------------|--------------------------------------------------|--------------------------------------------------|----------------------------------------------------|
+| Reproducibility of Workflow     | 25%    | Fully reproducible from clean clone with clear, automated steps | Mostly reproducible; minor manual steps or ambiguities | Partially reproducible; key steps undocumented   | Not reproducible; major steps missing or unclear   |
+| Openness & Licensing            | 20%    | Appropriate licenses for code & content; clearly documented | Appropriate licenses with minor gaps in documentation | Licenses present but unclear or incomplete       | No clear licensing; reuse terms ambiguous          |
+| Documentation & Organization    | 20%    | Repository is logically structured; README and docs are thorough and easy to follow | Structure is mostly clear; documentation covers main elements | Structure somewhat confusing; limited documentation | Disorganized repository; minimal or no documentation |
+| Technical Quality & Rigor       | 20%    | Methods appropriate and clearly implemented; code and results are accurate and well explained | Methods generally appropriate; minor issues in code or explanation | Methods partially appropriate; noticeable errors or unclear reasoning | Methods inappropriate or unclear; serious errors    |
+| Communication & Presentation    | 15%    | Report/site and presentation are clear, coherent, and engaging; story of the project is easy to follow | Communication is clear overall; some minor issues with flow or emphasis | Main ideas present but organization or clarity uneven | Difficult to follow; key ideas not clearly communicated |
+
+---
+
+## Criterion Details
+
+### Reproducibility of Workflow (25%)
+
+- Clear instructions in the `README` (or dedicated section) for how to set up and run the project.
+- All necessary files (data, code, configuration) are present or clearly sourced.
+- Use of scripted or automated steps (e.g., Quarto render, Makefile, or equivalent) where appropriate.
+
+### Openness and Licensing (20%)
+
+- Explicit licenses for:
+  - Code (e.g., MIT, GPL, Apache).
+  - Text, figures, and teaching materials (e.g., Creative Commons).
+- Licensing information is easy to find and understand.
+- Citations and attributions are used where materials from others are included.
+
+### Documentation and Organization (20%)
+
+- Logical folder structure (e.g., `data/`, `code/`, `docs/`, `outputs/`).
+- `README` clearly explains project purpose, data sources, main files, and how to reproduce results.
+- Additional documentation (e.g., data dictionary, comments in code) supports reuse.
+
+### Technical Quality and Rigor (20%)
+
+- Methods are appropriate for the research question or demonstration goal.
+- Code runs without errors under reasonable conditions.
+- Results are interpreted correctly and limitations are acknowledged.
+
+### Communication and Presentation (15%)
+
+- Written report or site is clearly structured (introduction, methods, results, discussion).
+- Visuals (tables, figures) are readable, labeled, and integrated into the narrative.
+- In-class presentation effectively summarizes the project and highlights open/reproducible practices.
+
+---
+
+## Scoring and Feedback
+
+- Final score is computed by applying the weights above to each criterion score.
+- Written feedback will highlight:
+  - Strengths to carry forward into future work.
+  - 1–3 specific areas for improvement in openness, reproducibility, or communication.
+

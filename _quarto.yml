@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Introduction to Open Science"
-  site-url: "https://YOUR-USERNAME.github.io/YOUR-REPO-NAME"
+  site-url: "https://hu-open-sci.github.io/template/"
   navbar:
     left:
       - href: index.qmd
@@ -15,6 +15,10 @@ website:
         text: "Module Overviews"
       - href: assignments.qmd
         text: "Assignments"
+      - text: "Rubrics"
+        menu: 
+          - href: rubrics/final-project-rubric.qmd
+            text: "Final project rubric"
       - text: "Modules"
         menu:
           - href: modules/module1.qmd
@@ -27,7 +31,7 @@ website:
             text: "Module 4"
     right:
       - icon: github
-        href: https://github.com/YOUR-USERNAME/YOUR-REPO-NAME
+        href: https://github.com/hu-open-sci
         text: "GitHub"
 
 format:

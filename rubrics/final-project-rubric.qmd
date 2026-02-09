@@ -1,12 +1,16 @@
 ---
-title: "Final Open Project Evaluation"
+title: "Final Open Project"
 format:
   html:
     toc: true
     toc-depth: 2
 ---
 
-## Rubric
+## Final Open Project Assignment
+
+The final project is a small, self-contained research or demonstration project that applies the full open science workflow you've learned throughout the course. Working individually or in pairs (with instructor approval), you'll create a public GitHub repository containing data (or simulated/open data), analysis code, a fully reproducible Quarto report or site, and comprehensive documentation. The project culminates in a 5–10 minute in-class presentation during Week 14. Key milestones include a proposal (Week 6), peer-reviewed draft (Week 11), and final submission (Week 14) worth 40% of your grade.
+
+## Final Open Project Rubric
 
 The final open project is evaluated using the rubric below. Each criterion is scored on a 4–point scale:
 

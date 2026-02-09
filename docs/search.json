@@ -133,39 +133,95 @@
     "text": "Next Steps Beyond the Course\n\nMaintain your project repository as a portfolio piece or living analysis.\nApply these practices to your thesis, publications, or collaborations.\nContribute to open science communities through code, feedback, or teaching others.\nStay connected via course GitHub organization or open science networks in your field."
   },
   {
-    "objectID": "rubrics/final-project-rubric.html",
-    "href": "rubrics/final-project-rubric.html",
-    "title": "Final Open Project",
+    "objectID": "rubrics/lab-rubric.html",
+    "href": "rubrics/lab-rubric.html",
+    "title": "Labs Rubric",
     "section": "",
-    "text": "The final project is a small, self-contained research or demonstration project that applies the full open science workflow you’ve learned throughout the course. Working individually or in pairs (with instructor approval), you’ll create a public GitHub repository containing data (or simulated/open data), analysis code, a fully reproducible Quarto report or site, and comprehensive documentation. The project culminates in a 5–10 minute in-class presentation during Week 14. Key milestones include a proposal (Week 6), peer-reviewed draft (Week 11), and final submission (Week 14) worth 40% of your grade."
+    "text": "The five labs (6% each, 30% total) are structured, hands-on exercises that progressively build skills in project organization, version control, reproducible reporting, licensing, and refinement. Each lab builds directly on the previous one, culminating in a polished open project repository ready for public sharing."
   },
   {
-    "objectID": "rubrics/final-project-rubric.html#final-open-project-assignment",
-    "href": "rubrics/final-project-rubric.html#final-open-project-assignment",
-    "title": "Final Open Project",
+    "objectID": "rubrics/lab-rubric.html#labs-assignment-overview",
+    "href": "rubrics/lab-rubric.html#labs-assignment-overview",
+    "title": "Labs Rubric",
     "section": "",
-    "text": "The final project is a small, self-contained research or demonstration project that applies the full open science workflow you’ve learned throughout the course. Working individually or in pairs (with instructor approval), you’ll create a public GitHub repository containing data (or simulated/open data), analysis code, a fully reproducible Quarto report or site, and comprehensive documentation. The project culminates in a 5–10 minute in-class presentation during Week 14. Key milestones include a proposal (Week 6), peer-reviewed draft (Week 11), and final submission (Week 14) worth 40% of your grade."
+    "text": "The five labs (6% each, 30% total) are structured, hands-on exercises that progressively build skills in project organization, version control, reproducible reporting, licensing, and refinement. Each lab builds directly on the previous one, culminating in a polished open project repository ready for public sharing."
   },
   {
-    "objectID": "rubrics/final-project-rubric.html#final-open-project-rubric",
-    "href": "rubrics/final-project-rubric.html#final-open-project-rubric",
-    "title": "Final Open Project",
-    "section": "Final Open Project Rubric",
-    "text": "Final Open Project Rubric\nThe final open project is evaluated using the rubric below. Each criterion is scored on a 4–point scale:\n\n4 = Exemplary\n3 = Proficient\n2 = Developing\n1 = Beginning\n\n\nSummary Table\n\n\n\n\n\n\n\n\n\n\n\nCriterion\nWeight\n4 – Exemplary\n3 – Proficient\n2 – Developing\n1 – Beginning\n\n\n\n\nReproducibility of Workflow\n25%\nFully reproducible from clean clone with clear, automated steps\nMostly reproducible; minor manual steps or ambiguities\nPartially reproducible; key steps undocumented\nNot reproducible; major steps missing or unclear\n\n\nOpenness & Licensing\n20%\nAppropriate licenses for code & content; clearly documented\nAppropriate licenses with minor gaps in documentation\nLicenses present but unclear or incomplete\nNo clear licensing; reuse terms ambiguous\n\n\nDocumentation & Organization\n20%\nRepository is logically structured; README and docs are thorough and easy to follow\nStructure is mostly clear; documentation covers main elements\nStructure somewhat confusing; limited documentation\nDisorganized repository; minimal or no documentation\n\n\nTechnical Quality & Rigor\n20%\nMethods appropriate and clearly implemented; code and results are accurate and well explained\nMethods generally appropriate; minor issues in code or explanation\nMethods partially appropriate; noticeable errors or unclear reasoning\nMethods inappropriate or unclear; serious errors\n\n\nCommunication & Presentation\n15%\nReport/site and presentation are clear, coherent, and engaging; story of the project is easy to follow\nCommunication is clear overall; some minor issues with flow or emphasis\nMain ideas present but organization or clarity uneven\nDifficult to follow; key ideas not clearly communicated"
+    "objectID": "rubrics/lab-rubric.html#labs-rubric-each-lab---6-points",
+    "href": "rubrics/lab-rubric.html#labs-rubric-each-lab---6-points",
+    "title": "Labs Rubric",
+    "section": "Labs Rubric (Each Lab - 6 points)",
+    "text": "Labs Rubric (Each Lab - 6 points)\nEach lab is scored on a 4-point scale across four equally weighted criteria (25% each):\n\n\n\n\n\n\n\n\n\n\nCriterion\n4 – Exemplary (100%)\n3 – Proficient (85%)\n2 – Developing (70%)\n1 – Beginning (50%)\n\n\n\n\nTask Completion\nAll required elements complete and correct\nMost elements complete; minor issues\nPartial completion; key elements missing\nMinimal completion or incorrect\n\n\nTechnical Execution\nWorks perfectly; clean, efficient implementation\nWorks with minor issues; functional\nWorks with significant issues\nDoesn’t work or fundamentally broken\n\n\nDocumentation\nClear commit messages, README updates, code comments\nAdequate documentation; some gaps\nLimited or unclear documentation\nNo documentation or misleading\n\n\nOpen Practices\nExcellent Git use; meaningful version history and structure\nBasic Git use; reasonable history\nMinimal Git use or poor history\nNo version control or disorganized"
   },
   {
-    "objectID": "rubrics/final-project-rubric.html#criterion-details",
-    "href": "rubrics/final-project-rubric.html#criterion-details",
-    "title": "Final Open Project",
+    "objectID": "rubrics/lab-rubric.html#criterion-details",
+    "href": "rubrics/lab-rubric.html#criterion-details",
+    "title": "Labs Rubric",
     "section": "Criterion Details",
-    "text": "Criterion Details\n\nReproducibility of Workflow (25%)\n\nClear instructions in the README (or dedicated section) for how to set up and run the project.\nAll necessary files (data, code, configuration) are present or clearly sourced.\nUse of scripted or automated steps (e.g., Quarto render, Makefile, or equivalent) where appropriate.\n\n\n\nOpenness and Licensing (20%)\n\nExplicit licenses for:\n\nCode (e.g., MIT, GPL, Apache).\nText, figures, and teaching materials (e.g., Creative Commons).\n\nLicensing information is easy to find and understand.\nCitations and attributions are used where materials from others are included.\n\n\n\nDocumentation and Organization (20%)\n\nLogical folder structure (e.g., data/, code/, docs/, outputs/).\nREADME clearly explains project purpose, data sources, main files, and how to reproduce results.\nAdditional documentation (e.g., data dictionary, comments in code) supports reuse.\n\n\n\nTechnical Quality and Rigor (20%)\n\nMethods are appropriate for the research question or demonstration goal.\nCode runs without errors under reasonable conditions.\nResults are interpreted correctly and limitations are acknowledged.\n\n\n\nCommunication and Presentation (15%)\n\nWritten report or site is clearly structured (introduction, methods, results, discussion).\nVisuals (tables, figures) are readable, labeled, and integrated into the narrative.\nIn-class presentation effectively summarizes the project and highlights open/reproducible practices."
+    "text": "Criterion Details\n\nTask Completion (25%)\nDid you complete all specific deliverables for that lab? - Lab 1: Complete project folder structure with directories and initial README - Lab 2: Git repository with multiple meaningful commits and branch/merge demo - Lab 3: Working Quarto document that renders from raw data to final output - Lab 4: Appropriate licenses added with clear documentation/rationale - Lab 5: Completed checklist with documented improvements implemented\n\n\nTechnical Execution (25%)\nDoes the work function as expected and demonstrate the target skill? - Code runs without errors - Outputs match expectations - Implements the specific technical skill being taught\n\n\nDocumentation (25%)\nAre changes tracked and explained clearly? - Meaningful Git commit messages that describe what changed and why - Updated README with clear reproduction instructions - Inline code comments where complexity warrants explanation\n\n\nOpen Practices (25%)\nDoes the work demonstrate emerging habits of open, reproducible science? - Logical repository organization - Version control used throughout the process - Evidence of iterative development through commit history - Structure supports future collaboration or reuse"
   },
   {
-    "objectID": "rubrics/final-project-rubric.html#scoring-and-feedback",
-    "href": "rubrics/final-project-rubric.html#scoring-and-feedback",
-    "title": "Final Open Project",
-    "section": "Scoring and Feedback",
-    "text": "Scoring and Feedback\n\nFinal score is computed by applying the weights above to each criterion score.\nWritten feedback will highlight:\n\nStrengths to carry forward into future work.\n1–3 specific areas for improvement in openness, reproducibility, or communication."
+    "objectID": "rubrics/lab-rubric.html#grading-process",
+    "href": "rubrics/lab-rubric.html#grading-process",
+    "title": "Labs Rubric",
+    "section": "Grading Process",
+    "text": "Grading Process\n\nCompletion focus: Labs emphasize skill acquisition over perfection\nHolistic scoring: Each criterion scored independently, then averaged\nFeedback: Brief comments via GitHub issues highlighting strengths and 1-2 areas for improvement\nLate policy: 10% per day penalty (up to 50% maximum deduction)"
+  },
+  {
+    "objectID": "rubrics/lab-rubric.html#submission-expectations",
+    "href": "rubrics/lab-rubric.html#submission-expectations",
+    "title": "Labs Rubric",
+    "section": "Submission Expectations",
+    "text": "Submission Expectations\nSubmit all labs to Canvas (in .html) and by pushing your work to your designated course GitHub repository. Name files clearly (e.g., lab1-project-skeleton/, lab3-repro-report.qmd) and tag each lab completion with a release or clear commit message."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction to Open Science",
+    "section": "",
+    "text": "This course introduces students to open science – a set of principles and practices aimed at making scientific research processes and outputs as accessible, transparent, and reusable as possible for both researchers and the wider public. Students will explore how openness enhances reproducibility, transparency, and collaboration in modern research across disciplines. Emphasis is placed on practical application—learning by doing through open source tools, reproducible workflows, and shared research artifacts."
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Introduction to Open Science",
+    "section": "",
+    "text": "This course introduces students to open science – a set of principles and practices aimed at making scientific research processes and outputs as accessible, transparent, and reusable as possible for both researchers and the wider public. Students will explore how openness enhances reproducibility, transparency, and collaboration in modern research across disciplines. Emphasis is placed on practical application—learning by doing through open source tools, reproducible workflows, and shared research artifacts."
+  },
+  {
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "Introduction to Open Science",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\n\nExplain the foundations and rationale of the open science movement.\n\nApply reproducible research practices using open tools (Git, R/RStudio, Python, Quarto, and GitHub).\n\nShare and document research transparently through open repositories and metadata standards.\n\nEvaluate ethical, equitable, and inclusive challenges in open scholarship.\n\nDevelop a reproducible mini-project using open science workflows."
+  },
+  {
+    "objectID": "index.html#instructor-information",
+    "href": "index.html#instructor-information",
+    "title": "Introduction to Open Science",
+    "section": "Instructor Information",
+    "text": "Instructor Information\nInstructor: Nathan Alexander, PhD\nOffice Hours: TBD (On-site or virtual)\nContact: nathan.alexander@howard.edu"
+  },
+  {
+    "objectID": "index.html#course-outline",
+    "href": "index.html#course-outline",
+    "title": "Introduction to Open Science",
+    "section": "Course Outline",
+    "text": "Course Outline\n\n\n\n\n\n\n\n\n\nWeek\nTopic\nIn-Class Focus\nMajor Due Dates\n\n\n\n\n1\nWhat is open science?\nHistory, motivations, and myths\n—\n\n\n2\nReproducibility crisis\nReplication and reform movements\nReflection 1\n\n\n3\nFrameworks for openness\nFAIR, TOP, and related standards\n—\n\n\n4\nResearch workflows\nProject structure and documentation\nLab 1: Project skeleton\n\n\n5\nVersion control with Git\nCommits, branches, remotes\nLab 2: Git basics\n\n\n6\nGitHub for collaboration\nIssues, pull requests, review workflows\nReflection 2\n\n\n7\nLiterate programming\nR Markdown / Quarto basics\nLab 3: Reproducible report\n\n\n8\nData management\nTidy data, metadata, README files\nData & code checklist\n\n\n9\nSharing data and code\nRepositories, DOIs, OSF, licensing\nReflection 3\n\n\n10\nLicensing and attribution\nCreative Commons and software licenses\nLab 4: Licensing plan\n\n\n11\nOpen peer review\nReview models and feedback practices\nPeer review: project draft\n\n\n12\nEthics in open science\nInclusion, power, and access in openness\nReflection 4\n\n\n13\nOpen science in practice\nCase studies and guest speakers\nLab 5: Project refinement\n\n\n14\nProject presentations\nStudent project presentations\nFinal project due"
+  },
+  {
+    "objectID": "index.html#assessment-and-deliverables",
+    "href": "index.html#assessment-and-deliverables",
+    "title": "Introduction to Open Science",
+    "section": "Assessment and Deliverables",
+    "text": "Assessment and Deliverables\n\nWeekly reflection posts via GitHub Discussions or Quarto Blogs\n\nReproducible research exercises (5 short labs)\n\nOpen Project Portfolio (GitHub repository with README, data, code, and reproducible report)\n\nPeer review of one classmate’s open workflow"
+  },
+  {
+    "objectID": "index.html#recommended-tools-and-resources",
+    "href": "index.html#recommended-tools-and-resources",
+    "title": "Introduction to Open Science",
+    "section": "Recommended Tools and Resources",
+    "text": "Recommended Tools and Resources\n\nThe Turing Way\n\nOpen Science Framework (OSF)\n\nGitHub Education\n\nFAIR Principles Overview\n\nQuarto Documentation"
   },
   {
     "objectID": "assignments.html",
@@ -231,53 +287,39 @@
     "text": "Notes\nThis assignments page is a working document. Details (due dates, specific datasets, tools, or rubrics) may be updated during the term; any changes will be announced in class and on the course home page."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introduction to Open Science",
+    "objectID": "rubrics/final-project-rubric.html",
+    "href": "rubrics/final-project-rubric.html",
+    "title": "Final Open Project",
     "section": "",
-    "text": "This course introduces students to open science – a set of principles and practices aimed at making scientific research processes and outputs as accessible, transparent, and reusable as possible for both researchers and the wider public. Students will explore how openness enhances reproducibility, transparency, and collaboration in modern research across disciplines. Emphasis is placed on practical application—learning by doing through open source tools, reproducible workflows, and shared research artifacts."
+    "text": "The final project is a small, self-contained research or demonstration project that applies the full open science workflow you’ve learned throughout the course. Working individually or in pairs (with instructor approval), you’ll create a public GitHub repository containing data (or simulated/open data), analysis code, a fully reproducible Quarto report or site, and comprehensive documentation. The project culminates in a 5–10 minute in-class presentation during Week 14. Key milestones include a proposal (Week 6), peer-reviewed draft (Week 11), and final submission (Week 14) worth 40% of your grade."
   },
   {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "Introduction to Open Science",
+    "objectID": "rubrics/final-project-rubric.html#final-open-project-assignment",
+    "href": "rubrics/final-project-rubric.html#final-open-project-assignment",
+    "title": "Final Open Project",
     "section": "",
-    "text": "This course introduces students to open science – a set of principles and practices aimed at making scientific research processes and outputs as accessible, transparent, and reusable as possible for both researchers and the wider public. Students will explore how openness enhances reproducibility, transparency, and collaboration in modern research across disciplines. Emphasis is placed on practical application—learning by doing through open source tools, reproducible workflows, and shared research artifacts."
+    "text": "The final project is a small, self-contained research or demonstration project that applies the full open science workflow you’ve learned throughout the course. Working individually or in pairs (with instructor approval), you’ll create a public GitHub repository containing data (or simulated/open data), analysis code, a fully reproducible Quarto report or site, and comprehensive documentation. The project culminates in a 5–10 minute in-class presentation during Week 14. Key milestones include a proposal (Week 6), peer-reviewed draft (Week 11), and final submission (Week 14) worth 40% of your grade."
   },
   {
-    "objectID": "index.html#learning-objectives",
-    "href": "index.html#learning-objectives",
-    "title": "Introduction to Open Science",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\n\nExplain the foundations and rationale of the open science movement.\n\nApply reproducible research practices using open tools (Git, R/RStudio, Python, Quarto, and GitHub).\n\nShare and document research transparently through open repositories and metadata standards.\n\nEvaluate ethical, equitable, and inclusive challenges in open scholarship.\n\nDevelop a reproducible mini-project using open science workflows."
+    "objectID": "rubrics/final-project-rubric.html#final-open-project-rubric",
+    "href": "rubrics/final-project-rubric.html#final-open-project-rubric",
+    "title": "Final Open Project",
+    "section": "Final Open Project Rubric",
+    "text": "Final Open Project Rubric\nThe final open project is evaluated using the rubric below. Each criterion is scored on a 4–point scale:\n\n4 = Exemplary\n3 = Proficient\n2 = Developing\n1 = Beginning\n\n\nSummary Table\n\n\n\n\n\n\n\n\n\n\n\nCriterion\nWeight\n4 – Exemplary\n3 – Proficient\n2 – Developing\n1 – Beginning\n\n\n\n\nReproducibility of Workflow\n25%\nFully reproducible from clean clone with clear, automated steps\nMostly reproducible; minor manual steps or ambiguities\nPartially reproducible; key steps undocumented\nNot reproducible; major steps missing or unclear\n\n\nOpenness & Licensing\n20%\nAppropriate licenses for code & content; clearly documented\nAppropriate licenses with minor gaps in documentation\nLicenses present but unclear or incomplete\nNo clear licensing; reuse terms ambiguous\n\n\nDocumentation & Organization\n20%\nRepository is logically structured; README and docs are thorough and easy to follow\nStructure is mostly clear; documentation covers main elements\nStructure somewhat confusing; limited documentation\nDisorganized repository; minimal or no documentation\n\n\nTechnical Quality & Rigor\n20%\nMethods appropriate and clearly implemented; code and results are accurate and well explained\nMethods generally appropriate; minor issues in code or explanation\nMethods partially appropriate; noticeable errors or unclear reasoning\nMethods inappropriate or unclear; serious errors\n\n\nCommunication & Presentation\n15%\nReport/site and presentation are clear, coherent, and engaging; story of the project is easy to follow\nCommunication is clear overall; some minor issues with flow or emphasis\nMain ideas present but organization or clarity uneven\nDifficult to follow; key ideas not clearly communicated"
   },
   {
-    "objectID": "index.html#instructor-information",
-    "href": "index.html#instructor-information",
-    "title": "Introduction to Open Science",
-    "section": "Instructor Information",
-    "text": "Instructor Information\nInstructor: Nathan Alexander, PhD\nOffice Hours: TBD (On-site or virtual)\nContact: nathan.alexander@howard.edu"
+    "objectID": "rubrics/final-project-rubric.html#criterion-details",
+    "href": "rubrics/final-project-rubric.html#criterion-details",
+    "title": "Final Open Project",
+    "section": "Criterion Details",
+    "text": "Criterion Details\n\nReproducibility of Workflow (25%)\n\nClear instructions in the README (or dedicated section) for how to set up and run the project.\nAll necessary files (data, code, configuration) are present or clearly sourced.\nUse of scripted or automated steps (e.g., Quarto render, Makefile, or equivalent) where appropriate.\n\n\n\nOpenness and Licensing (20%)\n\nExplicit licenses for:\n\nCode (e.g., MIT, GPL, Apache).\nText, figures, and teaching materials (e.g., Creative Commons).\n\nLicensing information is easy to find and understand.\nCitations and attributions are used where materials from others are included.\n\n\n\nDocumentation and Organization (20%)\n\nLogical folder structure (e.g., data/, code/, docs/, outputs/).\nREADME clearly explains project purpose, data sources, main files, and how to reproduce results.\nAdditional documentation (e.g., data dictionary, comments in code) supports reuse.\n\n\n\nTechnical Quality and Rigor (20%)\n\nMethods are appropriate for the research question or demonstration goal.\nCode runs without errors under reasonable conditions.\nResults are interpreted correctly and limitations are acknowledged.\n\n\n\nCommunication and Presentation (15%)\n\nWritten report or site is clearly structured (introduction, methods, results, discussion).\nVisuals (tables, figures) are readable, labeled, and integrated into the narrative.\nIn-class presentation effectively summarizes the project and highlights open/reproducible practices."
   },
   {
-    "objectID": "index.html#course-outline",
-    "href": "index.html#course-outline",
-    "title": "Introduction to Open Science",
-    "section": "Course Outline",
-    "text": "Course Outline\n\n\n\n\n\n\n\n\n\nWeek\nTopic\nIn-Class Focus\nMajor Due Dates\n\n\n\n\n1\nWhat is open science?\nHistory, motivations, and myths\n—\n\n\n2\nReproducibility crisis\nReplication and reform movements\nReflection 1\n\n\n3\nFrameworks for openness\nFAIR, TOP, and related standards\n—\n\n\n4\nResearch workflows\nProject structure and documentation\nLab 1: Project skeleton\n\n\n5\nVersion control with Git\nCommits, branches, remotes\nLab 2: Git basics\n\n\n6\nGitHub for collaboration\nIssues, pull requests, review workflows\nReflection 2\n\n\n7\nLiterate programming\nR Markdown / Quarto basics\nLab 3: Reproducible report\n\n\n8\nData management\nTidy data, metadata, README files\nData & code checklist\n\n\n9\nSharing data and code\nRepositories, DOIs, OSF, licensing\nReflection 3\n\n\n10\nLicensing and attribution\nCreative Commons and software licenses\nLab 4: Licensing plan\n\n\n11\nOpen peer review\nReview models and feedback practices\nPeer review: project draft\n\n\n12\nEthics in open science\nInclusion, power, and access in openness\nReflection 4\n\n\n13\nOpen science in practice\nCase studies and guest speakers\nLab 5: Project refinement\n\n\n14\nProject presentations\nStudent project presentations\nFinal project due"
-  },
-  {
-    "objectID": "index.html#assessment-and-deliverables",
-    "href": "index.html#assessment-and-deliverables",
-    "title": "Introduction to Open Science",
-    "section": "Assessment and Deliverables",
-    "text": "Assessment and Deliverables\n\nWeekly reflection posts via GitHub Discussions or Quarto Blogs\n\nReproducible research exercises (5 short labs)\n\nOpen Project Portfolio (GitHub repository with README, data, code, and reproducible report)\n\nPeer review of one classmate’s open workflow"
-  },
-  {
-    "objectID": "index.html#recommended-tools-and-resources",
-    "href": "index.html#recommended-tools-and-resources",
-    "title": "Introduction to Open Science",
-    "section": "Recommended Tools and Resources",
-    "text": "Recommended Tools and Resources\n\nThe Turing Way\n\nOpen Science Framework (OSF)\n\nGitHub Education\n\nFAIR Principles Overview\n\nQuarto Documentation"
+    "objectID": "rubrics/final-project-rubric.html#scoring-and-feedback",
+    "href": "rubrics/final-project-rubric.html#scoring-and-feedback",
+    "title": "Final Open Project",
+    "section": "Scoring and Feedback",
+    "text": "Scoring and Feedback\n\nFinal score is computed by applying the weights above to each criterion score.\nWritten feedback will highlight:\n\nStrengths to carry forward into future work.\n1–3 specific areas for improvement in openness, reproducibility, or communication."
   },
   {
     "objectID": "syllabus.html",
@@ -446,47 +488,5 @@
     "title": "Module 1",
     "section": "Looking Ahead",
     "text": "Looking Ahead\nModule 1 lays the conceptual groundwork for the more technical modules that follow. In Module 2, you will begin working directly with version control (Git), GitHub, and Quarto to implement reproducible workflows using the project skeleton you build here."
-  },
-  {
-    "objectID": "rubrics/lab-rubric.html",
-    "href": "rubrics/lab-rubric.html",
-    "title": "Labs Rubric",
-    "section": "",
-    "text": "The five labs (6% each, 30% total) are structured, hands-on exercises that progressively build skills in project organization, version control, reproducible reporting, licensing, and refinement. Each lab builds directly on the previous one, culminating in a polished open project repository ready for public sharing."
-  },
-  {
-    "objectID": "rubrics/lab-rubric.html#labs-assignment-overview",
-    "href": "rubrics/lab-rubric.html#labs-assignment-overview",
-    "title": "Labs Rubric",
-    "section": "",
-    "text": "The five labs (6% each, 30% total) are structured, hands-on exercises that progressively build skills in project organization, version control, reproducible reporting, licensing, and refinement. Each lab builds directly on the previous one, culminating in a polished open project repository ready for public sharing."
-  },
-  {
-    "objectID": "rubrics/lab-rubric.html#labs-rubric-each-lab---6-points",
-    "href": "rubrics/lab-rubric.html#labs-rubric-each-lab---6-points",
-    "title": "Labs Rubric",
-    "section": "Labs Rubric (Each Lab - 6 points)",
-    "text": "Labs Rubric (Each Lab - 6 points)\nEach lab is scored on a 4-point scale across four equally weighted criteria (25% each):\n\n\n\n\n\n\n\n\n\n\nCriterion\n4 – Exemplary (100%)\n3 – Proficient (85%)\n2 – Developing (70%)\n1 – Beginning (50%)\n\n\n\n\nTask Completion\nAll required elements complete and correct\nMost elements complete; minor issues\nPartial completion; key elements missing\nMinimal completion or incorrect\n\n\nTechnical Execution\nWorks perfectly; clean, efficient implementation\nWorks with minor issues; functional\nWorks with significant issues\nDoesn’t work or fundamentally broken\n\n\nDocumentation\nClear commit messages, README updates, code comments\nAdequate documentation; some gaps\nLimited or unclear documentation\nNo documentation or misleading\n\n\nOpen Practices\nExcellent Git use; meaningful version history and structure\nBasic Git use; reasonable history\nMinimal Git use or poor history\nNo version control or disorganized"
-  },
-  {
-    "objectID": "rubrics/lab-rubric.html#criterion-details",
-    "href": "rubrics/lab-rubric.html#criterion-details",
-    "title": "Labs Rubric",
-    "section": "Criterion Details",
-    "text": "Criterion Details\n\nTask Completion (25%)\nDid you complete all specific deliverables for that lab? - Lab 1: Complete project folder structure with directories and initial README - Lab 2: Git repository with multiple meaningful commits and branch/merge demo - Lab 3: Working Quarto document that renders from raw data to final output - Lab 4: Appropriate licenses added with clear documentation/rationale - Lab 5: Completed checklist with documented improvements implemented\n\n\nTechnical Execution (25%)\nDoes the work function as expected and demonstrate the target skill? - Code runs without errors - Outputs match expectations - Implements the specific technical skill being taught\n\n\nDocumentation (25%)\nAre changes tracked and explained clearly? - Meaningful Git commit messages that describe what changed and why - Updated README with clear reproduction instructions - Inline code comments where complexity warrants explanation\n\n\nOpen Practices (25%)\nDoes the work demonstrate emerging habits of open, reproducible science? - Logical repository organization - Version control used throughout the process - Evidence of iterative development through commit history - Structure supports future collaboration or reuse"
-  },
-  {
-    "objectID": "rubrics/lab-rubric.html#grading-process",
-    "href": "rubrics/lab-rubric.html#grading-process",
-    "title": "Labs Rubric",
-    "section": "Grading Process",
-    "text": "Grading Process\n\nCompletion focus: Labs emphasize skill acquisition over perfection\nHolistic scoring: Each criterion scored independently, then averaged\nFeedback: Brief comments via GitHub issues highlighting strengths and 1-2 areas for improvement\nLate policy: 10% per day penalty (up to 50% maximum deduction)"
-  },
-  {
-    "objectID": "rubrics/lab-rubric.html#submission-expectations",
-    "href": "rubrics/lab-rubric.html#submission-expectations",
-    "title": "Labs Rubric",
-    "section": "Submission Expectations",
-    "text": "Submission Expectations\nSubmit all labs to Canvas (in .html) and by pushing your work to your designated course GitHub repository. Name files clearly (e.g., lab1-project-skeleton/, lab3-repro-report.qmd) and tag each lab completion with a release or clear commit message."
   }
 ]

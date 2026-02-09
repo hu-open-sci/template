@@ -17,6 +17,8 @@ website:
         text: "Assignments"
       - text: "Rubrics"
         menu: 
+          - href: rubrics/lab-rubric.qmd
+            text: "Rubric for labs"
           - href: rubrics/final-project-rubric.qmd
             text: "Final project rubric"
       - text: "Modules"

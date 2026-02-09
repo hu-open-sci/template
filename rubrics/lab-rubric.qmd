@@ -1,0 +1,63 @@
+---
+title: "Labs Rubric"
+subtitle: "Evaluation Criteria for Lab Assignments"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+## Labs Assignment Overview
+
+The five labs (6% each, 30% total) are structured, hands-on exercises that progressively build skills in project organization, version control, reproducible reporting, licensing, and refinement. Each lab builds directly on the previous one, culminating in a polished open project repository ready for public sharing.
+
+## Labs Rubric (Each Lab - 6 points)
+
+Each lab is scored on a 4-point scale across four equally weighted criteria (25% each):
+
+| Criterion              | 4 – Exemplary (100%)                          | 3 – Proficient (85%)                       | 2 – Developing (70%)                       | 1 – Beginning (50%)                       |
+|------------------------|-----------------------------------------------|--------------------------------------------|--------------------------------------------|-------------------------------------------|
+| **Task Completion**    | All required elements complete and correct    | Most elements complete; minor issues       | Partial completion; key elements missing   | Minimal completion or incorrect           |
+| **Technical Execution**| Works perfectly; clean, efficient implementation | Works with minor issues; functional       | Works with significant issues              | Doesn't work or fundamentally broken      |
+| **Documentation**      | Clear commit messages, README updates, code comments | Adequate documentation; some gaps        | Limited or unclear documentation           | No documentation or misleading            |
+| **Open Practices**     | Excellent Git use; meaningful version history and structure | Basic Git use; reasonable history        | Minimal Git use or poor history            | No version control or disorganized        |
+
+## Criterion Details
+
+### Task Completion (25%)
+Did you complete all specific deliverables for that lab?
+- Lab 1: Complete project folder structure with directories and initial README
+- Lab 2: Git repository with multiple meaningful commits and branch/merge demo
+- Lab 3: Working Quarto document that renders from raw data to final output
+- Lab 4: Appropriate licenses added with clear documentation/rationale
+- Lab 5: Completed checklist with documented improvements implemented
+
+### Technical Execution (25%)
+Does the work function as expected and demonstrate the target skill?
+- Code runs without errors
+- Outputs match expectations
+- Implements the specific technical skill being taught
+
+### Documentation (25%)
+Are changes tracked and explained clearly?
+- Meaningful Git commit messages that describe what changed and why
+- Updated README with clear reproduction instructions
+- Inline code comments where complexity warrants explanation
+
+### Open Practices (25%)
+Does the work demonstrate emerging habits of open, reproducible science?
+- Logical repository organization
+- Version control used throughout the process
+- Evidence of iterative development through commit history
+- Structure supports future collaboration or reuse
+
+## Grading Process
+
+- **Completion focus**: Labs emphasize skill acquisition over perfection
+- **Holistic scoring**: Each criterion scored independently, then averaged
+- **Feedback**: Brief comments via GitHub issues highlighting strengths and 1-2 areas for improvement
+- **Late policy**: 10% per day penalty (up to 50% maximum deduction)
+
+## Submission Expectations
+
+Submit all labs to Canvas (in .html) and by pushing your work to your designated course GitHub repository. Name files clearly (e.g., `lab1-project-skeleton/`, `lab3-repro-report.qmd`) and tag each lab completion with a release or clear commit message.

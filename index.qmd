@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Open Science"
-subtitle: "Exploring Reproducibility, Transparency, and Collaboration in Contemporary Research"
+subtitle: "Exploring Reproducibility, Transparency, and Collaboration in Data Science"
 format:
   html:
     theme: cosmo

@@ -12,12 +12,12 @@ format:
 - **Course title:** Introduction to Open Science  
 - **Instructor:** Nathan Alexander, PhD
 - **Meeting times:** TBD
-- **Contact:** nathan.alexander@howard.edu
+- **Contact:** [nathan.alexander@howard.edu](mailto:nathan.alexander@howard.edu)
 - **Office hours:** TBD
 
 ## Course Description
 
-This course introduces the principles and practices of open science, with an emphasis on reproducible research workflows, transparent reporting, and collaborative scholarship. Students will critically examine the reproducibility crisis, explore tools that support openness (such as Git, GitHub, and Quarto), and apply these tools in hands-on assignments and a final open project.
+This course introduces the principles and practices of open science, with an emphasis on reproducible research workflows, transparent reporting, and collaborative scholarship. Students will critically examine reproducibility, explore tools that support openness (such as Git, GitHub, and Quarto), and apply these tools in hands-on assignments and a final open project. Students will also explore how open science practices vary across disciplines, including education, humanities, social sciences, industry and government, and STEM contexts. This course emphasizes applying open science principles to real-world data problems in alignment with the principles of producing reproducible research.
 
 ## Learning Objectives
 
@@ -25,8 +25,9 @@ By the end of the course, students will be able to:
 
 - Describe key concepts in open science, including transparency, reproducibility, and open scholarship.  
 - Use version control and hosted repositories to manage research projects collaboratively.  
-- Create reproducible analyses and reports using scripted workflows and literate programming tools.  
+- Create reproducible analyses and reports using scripted workflows and literate programming tools for data science.  
 - Apply best practices for sharing data, code, and other research outputs with appropriate documentation.  
+- Use open datasets and public information responsibly to address practical problems in domains such as community organizing, education, cybersecurity, business intelligence, or public policy.  
 - Critically evaluate ethical, legal, and equity considerations in open science.  
 
 ## Required Materials
@@ -35,6 +36,7 @@ By the end of the course, students will be able to:
   - R and RStudio (or another suitable IDE)  
   - Git (with a GitHub account)  
   - Quarto for document and site authoring  
+  - QGIS or another open-source GIS tool for geospatial projects  
 
 - **Readings:**  
   - Selected articles and chapters provided via the course site (all open access or openly licensed).  
@@ -42,7 +44,7 @@ By the end of the course, students will be able to:
 ## Course Schedule (Overview)
 
 | Week | Topic | In-Class Focus | Major Due Dates |
-|------|-------|----------------|-----------------|
+|---|---------|------------------|---------------|
 | 1 | What is open science? | History, motivations, and myths | — |
 | 2 | Reproducibility crisis | Replication and reform movements | Reflection 1 |
 | 3 | Frameworks for openness | FAIR, TOP, and related standards | — |
@@ -50,13 +52,13 @@ By the end of the course, students will be able to:
 | 5 | Version control with Git | Commits, branches, remotes | Lab 2: Git basics |
 | 6 | GitHub for collaboration | Issues, pull requests, review workflows | Reflection 2 |
 | 7 | Literate programming | R Markdown / Quarto basics | Lab 3: Reproducible report |
-| 8 | Data management | Tidy data, metadata, README files | Data & code checklist |
-| 9 | Sharing data and code | Repositories, DOIs, OSF, licensing | Reflection 3 |
-| 10 | Licensing and attribution | Creative Commons and software licenses | Lab 4: Licensing plan |
-| 11 | Open peer review | Review models and feedback practices | Peer review: project draft |
-| 12 | Ethics and equity | Inclusion, power, and access in openness | Reflection 4 |
-| 13 | Open science in practice | Case studies and guest speakers | Lab 5: Project refinement |
-| 14 | Project presentations | Student project presentations | Final project due |
+| 8 | Data management | Tidy data, metadata, README files; metadata, projections, and documenting data sources | Data & code checklist |
+| 9 | Open science in Education, Humanities, and Social Science | Disciplinary norms, text data, large-scale quantitative data, archives | Reflection 3a |
+| 10 | Open science in Industry, Business, and Government | Proprietary vs open data, NDAs, open-by-default policies, open data portals, OSINT-style collection and verification (e.g., social media, public records) | — |
+| 11 | Open science in STEM | Lab notebooks, code and data standards, preprints, replication, geospatial and simulation-based workflows | Reflection 3b |
+| 12 | Sharing data and code | Repositories, DOIs, OSF, licensing | Lab 4: Discipline-specific workflow |
+| 13 | Licensing and attribution | Creative Commons and software licenses | Lab 5: Licensing plan |
+| 14 | Project updates | Project presentations | Final projects |
 
 ## Assignments and Evaluation
 
@@ -74,15 +76,18 @@ By the end of the course, students will be able to:
   - Clearly organized folder structure and documentation  
   - Reproducible analysis and report (for example, a Quarto document or site)  
   - Appropriate licensing and citation  
+  - Class time in Weeks 9–11 will be used for discipline-specific application labs that support progress on your open project  
   - Short in-class presentation in Week 14  
+  - Students are encouraged to choose an open project that aligns with their professional pathway  
 
 ## Open Project Requirements
 
 Your open project should:
 
+- Be grounded in one of the course’s disciplinary clusters (Education/Humanities/Social Science; Industry/Business/Government; or STEM)  
 - Live in a public GitHub repository under your account (or a course organization).  
 - Include a clear `README` describing the project, requirements, and how to reproduce results.  
-- Provide data (or simulated/open data), code, and a rendered report or site.  
+- Provide data (or simulated/open data), code, and a rendered report or site. Projects may focus on tabular, text, or geospatial data (for example, an open GIS mapping project using QGIS and open spatial datasets).  
 - Use an appropriate license for code and content, documented in the repository.  
 
 ## Course Policies
@@ -110,3 +115,4 @@ Students are expected to follow ethical and legal guidelines in handling data. W
 ## Tentative Nature of the Syllabus
 
 The instructor may adjust topics, readings, or assignments as needed to better meet course goals. Any changes will be communicated in class and on the course site.
+

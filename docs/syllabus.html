@@ -206,13 +206,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
 <li><strong>Instructor:</strong> Nathan Alexander, PhD</li>
 <li><strong>Meeting times:</strong> TBD</li>
-<li><strong>Contact:</strong> nathan.alexander@howard.edu</li>
+<li><strong>Contact:</strong> <a href="mailto:nathan.alexander@howard.edu">nathan.alexander@howard.edu</a></li>
 <li><strong>Office hours:</strong> TBD</li>
 </ul>
 </section>
 <section id="course-description" class="level2">
 <h2 class="anchored" data-anchor-id="course-description">Course Description</h2>
-<p>This course introduces the principles and practices of open science, with an emphasis on reproducible research workflows, transparent reporting, and collaborative scholarship. Students will critically examine the reproducibility crisis, explore tools that support openness (such as Git, GitHub, and Quarto), and apply these tools in hands-on assignments and a final open project.</p>
+<p>This course introduces the principles and practices of open science, with an emphasis on reproducible research workflows, transparent reporting, and collaborative scholarship. Students will critically examine reproducibility, explore tools that support openness (such as Git, GitHub, and Quarto), and apply these tools in hands-on assignments and a final open project. Students will also explore how open science practices vary across disciplines, including education, humanities, social sciences, industry and government, and STEM contexts. This course emphasizes applying open science principles to real-world data problems in alignment with the principles of producing reproducible research.</p>
 </section>
 <section id="learning-objectives" class="level2">
 <h2 class="anchored" data-anchor-id="learning-objectives">Learning Objectives</h2>
@@ -222,9 +222,11 @@ ul.task-list li input[type="checkbox"] {
 </li>
 <li>Use version control and hosted repositories to manage research projects collaboratively.<br>
 </li>
-<li>Create reproducible analyses and reports using scripted workflows and literate programming tools.<br>
+<li>Create reproducible analyses and reports using scripted workflows and literate programming tools for data science.<br>
 </li>
 <li>Apply best practices for sharing data, code, and other research outputs with appropriate documentation.<br>
+</li>
+<li>Use open datasets and public information responsibly to address practical problems in domains such as community organizing, education, cybersecurity, business intelligence, or public policy.<br>
 </li>
 <li>Critically evaluate ethical, legal, and equity considerations in open science.</li>
 </ul>
@@ -238,7 +240,9 @@ ul.task-list li input[type="checkbox"] {
 </li>
 <li>Git (with a GitHub account)<br>
 </li>
-<li>Quarto for document and site authoring</li>
+<li>Quarto for document and site authoring<br>
+</li>
+<li>QGIS or another open-source GIS tool for geospatial projects</li>
 </ul></li>
 <li><strong>Readings:</strong>
 <ul>
@@ -250,10 +254,10 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="course-schedule-overview">Course Schedule (Overview)</h2>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 13%">
-<col style="width: 15%">
-<col style="width: 34%">
-<col style="width: 36%">
+<col style="width: 6%">
+<col style="width: 20%">
+<col style="width: 40%">
+<col style="width: 33%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -309,44 +313,44 @@ ul.task-list li input[type="checkbox"] {
 <tr class="even">
 <td>8</td>
 <td>Data management</td>
-<td>Tidy data, metadata, README files</td>
+<td>Tidy data, metadata, README files; metadata, projections, and documenting data sources</td>
 <td>Data &amp; code checklist</td>
 </tr>
 <tr class="odd">
 <td>9</td>
-<td>Sharing data and code</td>
-<td>Repositories, DOIs, OSF, licensing</td>
-<td>Reflection 3</td>
+<td>Open science in Education, Humanities, and Social Science</td>
+<td>Disciplinary norms, text data, large-scale quantitative data, archives</td>
+<td>Reflection 3a</td>
 </tr>
 <tr class="even">
 <td>10</td>
-<td>Licensing and attribution</td>
-<td>Creative Commons and software licenses</td>
-<td>Lab 4: Licensing plan</td>
+<td>Open science in Industry, Business, and Government</td>
+<td>Proprietary vs open data, NDAs, open-by-default policies, open data portals, OSINT-style collection and verification (e.g., social media, public records)</td>
+<td>—</td>
 </tr>
 <tr class="odd">
 <td>11</td>
-<td>Open peer review</td>
-<td>Review models and feedback practices</td>
-<td>Peer review: project draft</td>
+<td>Open science in STEM</td>
+<td>Lab notebooks, code and data standards, preprints, replication, geospatial and simulation-based workflows</td>
+<td>Reflection 3b</td>
 </tr>
 <tr class="even">
 <td>12</td>
-<td>Ethics and equity</td>
-<td>Inclusion, power, and access in openness</td>
-<td>Reflection 4</td>
+<td>Sharing data and code</td>
+<td>Repositories, DOIs, OSF, licensing</td>
+<td>Lab 4: Discipline-specific workflow</td>
 </tr>
 <tr class="odd">
 <td>13</td>
-<td>Open science in practice</td>
-<td>Case studies and guest speakers</td>
-<td>Lab 5: Project refinement</td>
+<td>Licensing and attribution</td>
+<td>Creative Commons and software licenses</td>
+<td>Lab 5: Licensing plan</td>
 </tr>
 <tr class="even">
 <td>14</td>
+<td>Project updates</td>
 <td>Project presentations</td>
-<td>Student project presentations</td>
-<td>Final project due</td>
+<td>Final projects</td>
 </tr>
 </tbody>
 </table>
@@ -369,7 +373,11 @@ A small, self-contained research or demonstration project hosted in a public rep
 </li>
 <li>Appropriate licensing and citation<br>
 </li>
-<li>Short in-class presentation in Week 14</li>
+<li>Class time in Weeks 9–11 will be used for discipline-specific application labs that support progress on your open project<br>
+</li>
+<li>Short in-class presentation in Week 14<br>
+</li>
+<li>Students are encouraged to choose an open project that aligns with their professional pathway</li>
 </ul></li>
 </ul>
 </section>
@@ -377,11 +385,13 @@ A small, self-contained research or demonstration project hosted in a public rep
 <h2 class="anchored" data-anchor-id="open-project-requirements">Open Project Requirements</h2>
 <p>Your open project should:</p>
 <ul>
+<li>Be grounded in one of the course’s disciplinary clusters (Education/Humanities/Social Science; Industry/Business/Government; or STEM)<br>
+</li>
 <li>Live in a public GitHub repository under your account (or a course organization).<br>
 </li>
 <li>Include a clear <code>README</code> describing the project, requirements, and how to reproduce results.<br>
 </li>
-<li>Provide data (or simulated/open data), code, and a rendered report or site.<br>
+<li>Provide data (or simulated/open data), code, and a rendered report or site. Projects may focus on tabular, text, or geospatial data (for example, an open GIS mapping project using QGIS and open spatial datasets).<br>
 </li>
 <li>Use an appropriate license for code and content, documented in the repository.</li>
 </ul>

@@ -27,7 +27,7 @@ By the end of the course, students will be able to:
 - Use version control and hosted repositories to manage research projects collaboratively.  
 - Create reproducible analyses and reports using scripted workflows and literate programming tools for data science.  
 - Apply best practices for sharing data, code, and other research outputs with appropriate documentation.  
-- Use open datasets and public information responsibly to address practical problems in domains such as community organizing, education, cybersecurity, business intelligence, or public policy.  
+- Use open datasets and public information responsibly to address practical problems in domains such as community organizing, education, cybersecurity, business intelligence, or public policy.
 - Critically evaluate ethical, legal, and equity considerations in open science.  
 
 ## Required Materials
